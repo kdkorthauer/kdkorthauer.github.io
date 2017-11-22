@@ -5,7 +5,6 @@ title: contact
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -30,8 +29,8 @@ title: contact
         </div>
 
         <div class="span2">
-        <a href="assets/img/keegan.jpg">
-            <img style="width:300px;" src="assets/img/keegan.jpg"
+        <a href="../assets/img/keegan.jpg">
+            <img style="width:300px;" src="../assets/img/keegan.jpg"
                   title="Keegan Korthauer" alt="Keegan Korthauer"/></a>
         </div>
     </div>
