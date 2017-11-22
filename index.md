@@ -3,7 +3,7 @@ layout: frontpage
 title: Keegan Korthauer
 ---
 
-### About 
+#### about 
 
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the department of [Biostatistics and Computational Biology](http://bcb.dfci.harvard.edu) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and the [Harvard T. H. Chan School of Public Health](http://www.hsph.harvard.edu). 
 
@@ -13,10 +13,33 @@ I earned my PhD in the [Department of Statistics](http://www.stat.wisc.edu/) at 
 
 My research focuses on developing statistical methodology and computational tools for the analysis of high-dimensional genomics data. Most of my work has revolved around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I have focused on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns.
 
+---
 
-### Learn more
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
 
-- Check out my [research & software page](pages/research.html)
-- Follow me on twitter at [@keegankorthauer](https://twitter.com/keegankorthauer)
-- Email me at [keegan ~at~ jimmy ~dot~ harvard ~dot~ edu](mailto:keegan@jimmy.harvard.edu)
-        	
+    <div class="row-fluid">
+        <div class="span5">
+            Keegan Korthauer<br/>
+            <a href="http://bcb.dfci.harvard.edu">Department of Biostatistics &amp; Computational Biology</a><br/>
+            <a href="http://www.dana-farber.org">Dana-Farber Cancer Institute</a><br/>
+            CLSB 11007<br/>
+            450 Brookline Ave<br/>
+            Boston, Massachusetts 02215<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
+            </b><code>my</code><b>So</b><code>.</code><b>please</b><code>har</code><b>leave
+            </b><code>vard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Phone: 617-632-3651
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="assets/img/keegan.jpg">
+            <img style="width:200px;height:250px;" src="assets/img/keegan.jpg"
+                  title="Keegan Korthauer" alt="Keegan Korthauer"/></a>
+        </div>
+    </div>
+</div>
