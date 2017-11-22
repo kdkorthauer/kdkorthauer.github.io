@@ -7,7 +7,7 @@ title: Keegan Korthauer
 
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the department of [Biostatistics and Computational Biology](http://bcb.dfci.harvard.edu) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and the [Harvard T. H. Chan School of Public Health](http://www.hsph.harvard.edu). 
 
-<img style="float: left;width:200px;height:250px;" src="https://raw.githubusercontent.com/kdkorthauer/kdkorthauer.github.io/master/img/keegan.JPG>
+<img style="float: left;width:200px;height:250px;" src="https://raw.githubusercontent.com/kdkorthauer/kdkorthauer.github.io/master/img/keegan.jpg>
 
 I earned my PhD in the [Department of Statistics](http://www.stat.wisc.edu/) at the [University of Wisconsin Madison](http://www.wisc.edu) in May 2015 under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
 
