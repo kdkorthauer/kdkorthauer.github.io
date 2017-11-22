@@ -30,9 +30,9 @@ My research focuses on developing statistical methodology and computational tool
         <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
         </b><code>my</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-        617.632.3651
-        <a href="https://twitter.com/keegankorthauer" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @keegankorthauer</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        617-632-3651
+        <b><a href="https://twitter.com/keegankorthauer" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @keegankorthauer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></b>
             </div>
         </div>
 
