@@ -30,9 +30,9 @@ My research focuses on developing statistical methodology and computational tool
 
             <div id="hide_email">
             Email: <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
-            </b><code>my</code><b>So</b><code>.</code><b>please</b><code>har</code><b>leave
-            </b><code>vard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 617-632-3651
+        </b><code>my</code><b>So</b><code>.</code><b>please</b><code>har</code><b>leave
+        </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+        Phone: 617-632-3651
             </div>
         </div>
 
