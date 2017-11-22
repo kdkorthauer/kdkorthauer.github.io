@@ -3,7 +3,7 @@ layout: frontpage
 title: Keegan Korthauer
 ---
 
-<img style="float: left;width:200px;height:250px;" src="https://raw.githubusercontent.com/kdkorthauer/kdkorthauer.github.io/master/img/keegan.JPBG> <br>
+<img style="float: left;width:200px;height:250px;" src="https://raw.githubusercontent.com/kdkorthauer/kdkorthauer.github.io/master/img/keegan.JPG> <br>
 
 ### About 
 
