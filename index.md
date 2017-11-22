@@ -36,7 +36,7 @@ My research focuses on developing statistical methodology and computational tool
 
         <div class="span2">
         <a href="assets/img/keegan.jpg">
-            <img style="width:300px;height:250px;" src="assets/img/keegan.jpg"
+            <img style="width:300px;" src="assets/img/keegan.jpg"
                   title="Keegan Korthauer" alt="Keegan Korthauer"/></a>
         </div>
     </div>
