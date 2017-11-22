@@ -9,7 +9,7 @@ I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafal
 
 I earned my PhD in the [Department of Statistics](http://www.stat.wisc.edu/) at the [University of Wisconsin Madison](http://www.wisc.edu) in May 2015 under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
 
-My research focuses on developing statistical methodology and computational tools for the analysis of high-dimensional genomics data. Most of my work has revolved around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I have focused on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns.
+My research focuses on developing statistical methodology and computational tools for the analysis of high-dimensional genomics data. Most of my work resolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. I am always looking to collaborate on new and interesting problems in these and other areas!
 
 ---
 
@@ -31,6 +31,7 @@ My research focuses on developing statistical methodology and computational tool
         </b><code>my</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         Phone: 617-632-3651
+        Twitter: <a href="https://twitter.com/keegankorthauer">@keegankorthauer</a>
             </div>
         </div>
 
