@@ -22,10 +22,10 @@ title: contact
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         617-632-3651<br/>
         <a href="https://github.com/kdkorthauer">GitHub</a></br>
-        <a href="https://twitter.com/keegankorthauer" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @keegankorthauer</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br/>
         <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a><br/>
         <a href="https://publons.com/author/1335173/keegan-korthauer#profile">Publons</a><br/>
+        <a href="https://twitter.com/keegankorthauer" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @keegankorthauer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br/>
         </div>
         </div>
 
