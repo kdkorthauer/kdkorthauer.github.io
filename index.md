@@ -30,8 +30,8 @@ My research focuses on developing statistical methodology and computational tool
         <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
         </b><code>my</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-        617-632-3651
-        Twitter:<a href="https://twitter.com/keegankorthauer">@keegankorthauer</a></br>
+        617-632-3651<br/>
+        Twitter:<a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/>
             </div>
         </div>
 
