@@ -29,7 +29,7 @@ With collaborators at UW's Morgridge Institute for Research, we developed a meth
 
 In addition to detecting genes with subtle and complex differences in expression among single-cells, the framework also provides a summary of the key features than can differ between two conditions by classifying them into meaningful patterns.  The predominant features that are represented by the patterns are differences in means, differences in the number of subgroups, and differences in the proportion of cells belonging to each subgroup. Compared to methods that do not account for distinct expression states, our method shows increased sensitivity in simulation, and is able to detect and classify changes in key pluripotency genes and cell cycle regulators when comparing differentiated cells to embryonic stem cell lines.
               
-<center><img src="..assets/img/DDdiagram.png" alt="DDdiagram" width="800" height="160"/></center> 
+<center><img src="../assets/img/DDdiagram.png" alt="DDdiagram" width="800" height="160"/></center> 
           
 The scDD R package that implements our approach is available on [Bioconductor](http://bioconductor.org/packages/scDD). Read more in our [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y) 
 
@@ -37,9 +37,15 @@ The scDD R package that implements our approach is available on [Bioconductor](h
 
 We know that cancer arises from the accumulation of genetic alterations that provide a selective advantage to a cancer cell (drivers), but identifying which changes will provide that advantage is a difficult and open problem. Alterations that are irrelevant to the disease process (passengers) will occur by chance and the key challenge is to be able to separate these two classes of alterations. We have developed a statistical method to address this problem called MADGiC (a Model-based Approach for identifying Driver Genes in Cancer. 
 
-<center><img src="..assets/img/MADGiC_prior.png" alt="MADGiC prior" width="800" height="350"/></center> 
+        <div class="span2">
+        <a href="assets/img/keegan.jpg">
+            <img style="width:300px;" src="assets/img/keegan.jpg"
+                  title="Keegan Korthauer" alt="Keegan Korthauer"/></a>
+        </div>
+
+<center><img src="../assets/img/MADGiC_prior.png" alt="MADGiC prior" width="800" height="350"/></center> 
 <div id="imgbar" class="imgbar1">
-<img src="..assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/>
+<img src="../assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/>
 </div> 
 
 As we detail in the manuscript published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/early/2015/01/07/bioinformatics.btu858.long), existing statistical methods for identifying driver genes in cancer rely primarily on frequency-based criteria (i.e. identifying driver genes as those showing higher mutation rates than expected by chance). However, recent studies have 	        
@@ -52,7 +58,7 @@ The R package MADGiC ([available on [GitHub](https://github.com/kdkorthauer/MADG
 
 Latent Dirichlet allocation models, also referred to as topic models, are commonly applied to text corpora to discover underlying themes in the text. Supervised versions of topic models do so while relating topics to an outcome of interest. Instead of literal documents, we applied supervised topic models to diverse genomic data in order to discover cancer subtypes. Here, a topic represents a collection of co-occurring genomic features.
         	 
-<center><img src="..assets/img/survLDA.png" alt="survLDA" width="850" height="400"/></center> 
+<center><img src="../assets/img/survLDA.png" alt="survLDA" width="850" height="400"/></center> 
  
 Personalized genomic medicine aims to predict clinical response using genomic predictors, but integration of multiple data types (e.g. gene expression, methylation, SNP genotypes) remains a challenge.  Using a novel translation of diverse genomic information to construct patient-specific 'documents', we are able to discover collections of genomic features in cancer patients that are related to survival. As we demonstrate in simulation studies, this type of inference is feasible even with modest sample sizes.  However, more exploration is needed to determine the optimal way to translate the genomic features into 'documents'. See our [ chapter](http://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-life-sciences-medicine-and-health/advances-statistical-bioinformatics-models-and-integrative-inference-high-throughput-data) in _Advances in Statistical Bioinformatics_ to learn more.
   
