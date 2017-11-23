@@ -46,7 +46,6 @@ The scDD R package that implements our approach is available on [Bioconductor](h
 We know that cancer arises from the accumulation of genetic alterations that provide a selective advantage to a cancer cell (drivers), but identifying which changes will provide that advantage is a difficult and open problem. Alterations that are irrelevant to the disease process (passengers) will occur by chance and the key challenge is to be able to separate these two classes of alterations. We have developed a statistical method to address this problem called MADGiC (a Model-based Approach for identifying Driver Genes in Cancer. 
 
 <center><img src="../assets/img/MADGiC_prior.png" alt="MADGiC prior" width="800" height="350"/></center> 
-<div id="imgbar" class="imgbar1">
 <center><img src="../assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/></center> 
 
 As we detail in the manuscript published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/early/2015/01/07/bioinformatics.btu858.long), existing statistical methods for identifying driver genes in cancer rely primarily on frequency-based criteria (i.e. identifying driver genes as those showing higher mutation rates than expected by chance). However, recent studies have 	        
