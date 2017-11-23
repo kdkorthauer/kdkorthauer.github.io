@@ -3,7 +3,7 @@ layout: frontpage
 title: Keegan Korthauer
 ---
 
-#### about 
+### about 
 
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the department of [Biostatistics and Computational Biology](http://bcb.dfci.harvard.edu) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and the [Harvard T. H. Chan School of Public Health](http://www.hsph.harvard.edu). 
 
@@ -14,7 +14,7 @@ My [research](pages/research.html) focuses on developing statistical methodology
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h3><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
