@@ -41,7 +41,7 @@ In addition to detecting genes with subtle and complex differences in expression
               
 The scDD R package that implements our approach is available on [Bioconductor](http://bioconductor.org/packages/scDD). Read more in our [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y) 
 
-#### identifying Driver Genes in Cancer </h2>
+#### identifying Driver Genes in Cancer 
 
 We know that cancer arises from the accumulation of genetic alterations that provide a selective advantage to a cancer cell (drivers), but identifying which changes will provide that advantage is a difficult and open problem. Alterations that are irrelevant to the disease process (passengers) will occur by chance and the key challenge is to be able to separate these two classes of alterations. We have developed a statistical method to address this problem called MADGiC (a Model-based Approach for identifying Driver Genes in Cancer. 
 
