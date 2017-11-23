@@ -7,11 +7,11 @@ code {
 }
 
 a code {
-    color: #purple;
+    color: #darkpurple;
 }
 
 a {
-    color: #purple;
+    color: #darkpurple;
 }
 
 a:hover {
@@ -29,6 +29,16 @@ a:hover img {
     background-color: #e3e4fa;
     text-decoration: none;
     border: solid 2px #e3e4fa;
+}
+
+/* unvisited link */
+a:link {
+    color: darkpurple;
+}
+
+/* visited link */
+a:visited {
+    color: darkslateblue;
 }
 
 p.center {
@@ -58,5 +68,5 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: purple;
+    color: darkpurple;
 }
