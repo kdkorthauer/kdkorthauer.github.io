@@ -47,8 +47,7 @@ We know that cancer arises from the accumulation of genetic alterations that pro
 
 <center><img src="../assets/img/MADGiC_prior.png" alt="MADGiC prior" width="800" height="350"/></center> 
 <div id="imgbar" class="imgbar1">
-<center><img src="../assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/>
-</div></center> 
+<center><img src="../assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/></center> 
 
 As we detail in the manuscript published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/early/2015/01/07/bioinformatics.btu858.long), existing statistical methods for identifying driver genes in cancer rely primarily on frequency-based criteria (i.e. identifying driver genes as those showing higher mutation rates than expected by chance). However, recent studies have 	        
 identified many other properties of drivers such as increased functional impact, enrichment for 
