@@ -1,3 +1,3 @@
 ## kdkorthauer.github.io
 
-Repository for my [webpage hosted on GitHub](www.kkorthauer.org).
+Repository for my [webpage hosted on GitHub](http://kkorthauer.org).
