@@ -33,12 +33,12 @@ a:hover img {
 
 /* unvisited link */
 a:link {
-    color: maroon;
+    color: lightred;
 }
 
 /* visited link */
 a:visited {
-    color: maroon;
+    color: lightred;
 }
 
 p.center {
