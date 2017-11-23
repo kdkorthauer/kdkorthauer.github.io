@@ -7,16 +7,16 @@ code {
 }
 
 a code {
-    color: #FireBrick;
+    color: #Crimson;
 }
 
 a {
-    color: #FireBrick;
+    color: #Crimson;
 }
 
 a:hover {
     color: red;
-    background-color: #e3e4fa;
+    background-color: gold;
     text-decoration: none;
 }
 
@@ -33,12 +33,12 @@ a:hover img {
 
 /* unvisited link */
 a:link {
-    color: FireBrick;
+    color: Crimson;
 }
 
 /* visited link */
 a:visited {
-    color: FireBrick;
+    color: Crimson;
 }
 
 p.center {
