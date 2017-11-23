@@ -1,9 +1,9 @@
 ---
 layout: page
-title: research
+title: Stat 324: Introductory Applied Statistics for Engineers
 ---
 
-### Lecture Notes for Stat 324: Introductory Applied Statistics for Engineers, Spring 2014 
+### Lecture Notes for Spring 2014 
 
 <ul>
 <li> <a href="http://bcb.dfci.harvard.edu/~keegan/stat324/STAT324_0122_intro_sampling.pdf"> 1/22: Introduction </a> </li>	
