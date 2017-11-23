@@ -14,7 +14,7 @@ My [research](pages/research.html) focuses on developing statistical methodology
 ---
 
 <div class="container">
-<h3><a name="contact"></a>contact</h4>
+<h3><a name="contact"></a>contact</h3>
 
     <div class="row-fluid">
         <div class="span5">
