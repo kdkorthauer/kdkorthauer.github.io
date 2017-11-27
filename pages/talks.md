@@ -3,6 +3,17 @@ layout: page
 title: talks
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110175023-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110175023-1');
+</script>
+
+
 ### conference talks 
 			
 - [Detection and inference of differentially methylated regions from bisulfite sequencing](http://bcb.dfci.harvard.edu/~keegan/talks/bioc_dmrseq_07282017.pdf): Invited Talk, Bioconductor Meeting, Boston, July 26-28 2017

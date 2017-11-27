@@ -3,6 +3,17 @@ layout: page
 title: teaching
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110175023-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110175023-1');
+</script>
+
+
 ### semester courses
 
 - Teaching Assistant, [BST 260: Introduction to data science](http://datasciencelabs.github.io), Fall 2017, Harvard. T. H. Chan School of Public Health
