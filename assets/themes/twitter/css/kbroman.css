@@ -70,3 +70,25 @@ td.right {
 h1, h2, h3, h4 {
     color: darkred;
 }
+
+/* Social */
+
+.social {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.social li {
+  clear: both;
+}
+
+.social a {}
+
+.social i { 
+  float: left;
+  margin-right: 3px;
+  padding-top: 4px;
+}
+.social a[href*='twitter.com'] + i:before {content: url('../../../assets/img/twitter.png'); }
+.social a[href*='github.com'] + i:before {content: url('../../../assets/img/github.png'); }
+.social a[href*='publons.com'] + i:before {content: url('../../../assets/img/publons.png'); }
