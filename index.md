@@ -42,8 +42,8 @@ My [research](pages/research.html) focuses on developing statistical methodology
         </b><code>my</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         617-632-3651<br/>
-        <a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/>
             </div>
+        <a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/>
         </div>
 
         <div class="span2">
