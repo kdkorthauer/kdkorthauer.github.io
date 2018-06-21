@@ -26,7 +26,7 @@ high-throughput genomic data. My code is available through R packages that
 can be installed from [GitHub](https://github.com/kdkorthauer) 
 or the [Bioconductor](https://bioconductor.org) Project.
 
-- **dmrseq**: R package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [GitHub](https://github.com/kdkorthauer/dmrseq) 
+- **dmrseq**: R package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [Bioconductor](http://bioconductor.org/packages/dmrseq) 
 		       
 - **scDD**: R package for the identification of differentially distributed genes in single-cell RNA-seq, available on [Bioconductor](http://bioconductor.org/packages/scDD)
 		    
