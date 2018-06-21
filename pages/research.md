@@ -40,7 +40,7 @@ A central question in the analysis of bisulfite sequencing data is to detect reg
 
 <center><img src="../assets/img/DMR.jpg" alt="DMR" width="600"/></center> 
 
-The R package dmrseq (available on [GitHub](https://github.com/kdkorthauer/dmrseq)) provides a rigorous permutation- based approach to detect and perform inference for differential methylation by use of generalized least squares models that account for inter-individual and inter-CpG variability to generate region-level statistics that can be comparable across the genome. We find that the new method improves the specificity and sensitivity of lists of regions and accurately controls the False Discovery Rate (FDR) in experiments with as few as two samples per group. Learn more by reading the [bioRxiv preprint](https://www.biorxiv.org/content/early/2017/08/31/183210). 
+The R package dmrseq (available on [GitHub](https://github.com/kdkorthauer/dmrseq)) provides a rigorous permutation- based approach to detect and perform inference for differential methylation by use of generalized least squares models that account for inter-individual and inter-CpG variability to generate region-level statistics that can be comparable across the genome. We find that the new method improves the specificity and sensitivity of lists of regions and accurately controls the False Discovery Rate (FDR) in experiments with as few as two samples per group. Learn more by reading our [Biostatistics paper](https://doi.org/10.1093/biostatistics/kxy007). 
 
 #### characterizing complex differences in single-cell gene expression 
 
