@@ -16,7 +16,7 @@ title: talks
 
 ### conference talks 
 		
-- [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018.pdf): Joint Statistical Meetings, Vancouver, CA, July 29-August 2 2018	
+- [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf): Joint Statistical Meetings, Vancouver, CA, July 29-August 2 2018	
 - [Detection and inference of differentially methylated regions from bisulfite sequencing](http://bcb.dfci.harvard.edu/~keegan/talks/bioc_dmrseq_07282017.pdf): Invited Talk, Bioconductor Meeting, Boston, July 26-28 2017
 - [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](http://bcb.dfci.harvard.edu/~keegan/talks/JSM_2016_Korthauer_Session_418.pdf): Contributed Talk, ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings, Chicago, IL, August 2016  
 - [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](http://bcb.dfci.harvard.edu/~keegan/talks/FoG_2016_SingleCell_Korthauer.pdf>): Invited Talk, Festival of Genomics California, San Diego, CA, September 2016
