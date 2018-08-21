@@ -12,14 +12,10 @@ title: research
 
   gtag('config', 'UA-110175023-1');
 </script>
-
-
-### publications
-
-- [Curriculum Vitae](../cv-korthauer-academic.pdf)
-- [Google scholar](https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en)
         						    
 ### research interests 
+
+My research focuses on developing [statistical methodology](papers.html) and [computational tools](software.html) for the analysis of high-dimensional genomics data. Most of my work resolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. I am always looking to collaborate on new and interesting problems in these and other areas!
 
 #### detection and inference of differential methylation
 

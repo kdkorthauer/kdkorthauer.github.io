@@ -20,7 +20,7 @@ I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafal
 
 I earned my PhD in the [Department of Statistics](http://www.stat.wisc.edu/) at the [University of Wisconsin Madison](http://www.wisc.edu) in May 2015 under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
 
-My [research](pages/research.html) focuses on developing statistical methodology and computational tools for the analysis of high-dimensional genomics data. Most of my work resolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. I am always looking to collaborate on new and interesting problems in these and other areas!
+My [research](pages/research.html) focuses on developing [statistical methodology](papers.html) and [computational tools](software.html) for the analysis of high-dimensional genomics data. Most of my work resolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. I am always looking to collaborate on new and interesting problems in these and other areas!
 
 ---
 
