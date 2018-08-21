@@ -22,8 +22,7 @@ title: papers
 
 #### pre-prints
 
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="GitHub logo"></a> 
-<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="GitHub logo"></a> <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 #### peer reviewed journal articles
 
@@ -34,8 +33,9 @@ David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, Ke
 **Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, kxy007. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a> 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
-C. J. Shukla, A. L. McCorkindale, C. Gerhardinger, {\bf K. Korthauer}, M. N. Cabili, D. M. Shechner, R. A. Irizarry, P. G. Maass, J. L. Rinn.
-{High-throughput identification of RNA nuclear enrichment sequences}. \emph{The EMBO Journal}, 37:e98452, 2018 \vspace*{0.5mm}
+Chinmay J Shukla, Alexandra L McCorkindale, Chiara Gerhardinger, **Keegan D Korthauer**, Moran N Cabili, David M Shechner, Rafael A Irizarry, Philipp G Maass, John L Rinn.
+High-throughput identification of RNA nuclear enrichment sequences. *The EMBO Journal*, 37:e98452. [doi: 10.15252/embj.201798452](https://doi.org/10.15252/embj.201798452), 2018. 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.15252/embj.201798452" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 J. Choi, S. Ye, K. Eng, {\bf K. Korthauer}, W. H. Bradley, J. S. Rader  and C. Kendziorski. {IPI59: an actionable biomarker to improve treatment response in serous ovarian carcinoma patients}. \emph{Statistics in Biosciences}, 9(1):1-12, 2017. \vspace*{0.5mm}
 
