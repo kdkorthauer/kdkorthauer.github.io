@@ -13,6 +13,7 @@ title: papers
   gtag('config', 'UA-110175023-1');
 </script>
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### publications
 
@@ -21,7 +22,7 @@ title: papers
 
 #### pre-prints
 
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [https://doi.org/10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a>
+**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [https://doi.org/10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a>
  <div data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 #### peer reviewed journal articles
