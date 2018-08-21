@@ -20,8 +20,10 @@ a:hover
 .btn-primary,
 .btn-primary:hover,
 .btn-primary:active,
+.btn-primary.active,
 .btn-primary:visited,
 .btn-primary:focus {
+    color: #ffffff; !important;
     background-color: maroon; !important;
     border-color: maroon; !important;
 }
