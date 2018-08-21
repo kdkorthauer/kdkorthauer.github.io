@@ -22,15 +22,17 @@ title: papers
 
 #### pre-prints
 
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a>
+**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="GitHub logo"></a> 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 #### peer reviewed journal articles
 
-David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, Keegan Korthauer, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. {A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer}. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, Keegan Korthauer, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. {A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer}. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 
-{\bf K. Korthauer}, S. Chakraborty, Y. Benjamini, R. A. Irizarry. {Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing}. \emph{Biostatistics}, kxy007, 2018.
+**Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, kxy007. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a> 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 C. J. Shukla, A. L. McCorkindale, C. Gerhardinger, {\bf K. Korthauer}, M. N. Cabili, D. M. Shechner, R. A. Irizarry, P. G. Maass, J. L. Rinn.
 {High-throughput identification of RNA nuclear enrichment sequences}. \emph{The EMBO Journal}, 37:e98452, 2018 \vspace*{0.5mm}
