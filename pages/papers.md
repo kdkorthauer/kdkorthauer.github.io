@@ -46,20 +46,22 @@ Clara Bodelon, Svetlana Vinokurova, Joshua N Sampson, Johan A den Boon, Joan L W
 **Keegan Korthauer**, Christina Kendziorski. MADGiC: a model-based approach for identifying driver genes in cancer. *Bioinformatics*, 31(10): 1526–1535. [doi: 10.1093/bioinformatics/btu858](https://doi.org/10.1093/bioinformatics/btu858), 2015.
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/bioinformatics/btu858" class="altmetric-embed"></div> 
 
-Yun Ju Sung, **Keegan D Korthauer**, Michael D Swartz, Corinne D Engelman. Methods for Collapsing Multiple Rare Variants in Whole Genome Sequencing Data. *Genetic Epidemiology*, 38(S1):S13-S20. [doi: doi.org/10.1002/gepi.21820 ](https://doi.org/10.1002/gepi.21820), 2014.
+Yun Ju Sung, **Keegan D Korthauer**, Michael D Swartz, Corinne D Engelman. Methods for Collapsing Multiple Rare Variants in Whole Genome Sequencing Data. *Genetic Epidemiology*, 38(S1):S13-S20. [doi: doi.org/10.1002/gepi.21820](https://doi.org/10.1002/gepi.21820), 2014.
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1002/gepi.21820" class="altmetric-embed"></div> 
 
 Marcel Wüthrich, Karen Ersland, John C Pick-Jacobs, Benjamin H Gern, Christopher A Frye, Thomas D Sullivan, Meghan B Brennan, Hanna I Filutowicz, Kevin O'Brien, **Keegan D Korthauer**, Stacey Schultz-Cherry, Bruce S Klein. Limited model antigen expression by transgenic fungi induces disparate fates during differentiation of adoptively transferred T cell receptor transgenic CD4+ T cells: robust activation and proliferation with weak effector function during recall. *Infection and immunity*, 80(2): 787-797. [doi: 10.1128/IAI.05326-11](https://doi.org/10.1128/IAI.05326-11) 2012.
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1128/IAI.05326-11" class="altmetric-embed"></div> 
 
-D. Z. Bliss, J. Lewis, {\bf K. Hasselmann (now Korthauer)}, K. Savik, A. Lowry, R. Whitebird. Use and evaluation of disposable absorbent products for managing fecal incontinence by community-living people. *Journal of wound, ostomy, and continence nursing*, 38(3):289, 2011.
+Donna Z Bliss, Jaclyn Lewis, **Keegan Hasselmann (now Korthauer)**, Kay Savik, Ann Lowry, Robin Whitebird. Use and evaluation of disposable absorbent products for managing fecal incontinence by community-living people. *Journal of wound, ostomy, and continence nursing*, 38(3):289. [doi: 10.1097/WON.0b013e31821530ca](https://doi.org/10.1097/WON.0b013e31821530ca), 2011.
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1097/WON.0b013e31821530ca" class="altmetric-embed"></div> 
 
-L. Wang, R. M. Mitra, {\bf K. Hasselmann (now Korthauer)}, M. Sato, L. Lenarz-Wyatt, J. D. Cohen, F. Katagiri, J. Glazebrook. The genetic network controlling the Arabidopsis transcriptional response to Pseudomonas syringae pv. maculicola: roles of major regulators and the phytotoxin coronatine. *Molecular plant-microbe interactions*, 21(11): 1408-1420, 2008.
-\end{enumerate}
+Lin Wang, Raka M Mitra, **Keegan D Hasselmann (now Korthauer)**, Masanao Sato, Lisa Lenarz-Wyatt, Jerry D Cohen, Fumiaki Katagiri, Jane Glazebrook. The genetic network controlling the Arabidopsis transcriptional response to Pseudomonas syringae pv. maculicola: roles of major regulators and the phytotoxin coronatine. *Molecular plant-microbe interactions*, 21(11): 1408-1420. [doi: 10.1094/MPMI-21-11-1408](https://doi.org/10.1094/MPMI-21-11-1408), 2008.
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1094/MPMI-21-11-1408" class="altmetric-embed"></div> 
 
 ### book chapters
 
-**Keegan Korthauer**, J. Dawson and C. Kendziorski. Predicting cancer subtypes using survival-supervised latent Dirichlet allocation models.  In *Advances in Statistical Bioinformatics: Models and Integrative Inference for High-Throughput Data*, K.-A. Do, Z. S. Qin and M. Vannucci (Eds). Cambridge University Press, 2013.
+**Keegan Korthauer**, John Dawson and Christina Kendziorski. Predicting cancer subtypes using survival-supervised latent Dirichlet allocation models.  In *Advances in Statistical Bioinformatics: Models and Integrative Inference for High-Throughput Data*, Kim-Anh Do, Zhaohui Steve Qin, Marina Vannucci (Eds). Cambridge University Press. [doi: 10.1017/CBO9781139226448](https://doi.org/10.1017/CBO9781139226448) 2013.
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1017/CBO9781139226448" class="altmetric-embed"></div> 
 
 ### conference proceedings
 
@@ -71,4 +73,4 @@ Jose Delgado, Alicia Fernandez, Nancy E Adler, **Keegan Korthauer**, Elizabeth J
 
 ### phd dissertation
 
-**Keegan Korthauer**. Bayesian hierarchical modeling of high-throughput genomic data with applications to cancer bioinformatics and stem cell differentiation, Ph.D. Thesis, University of Wisconsin, 2015. 
+**Keegan Korthauer**. Bayesian hierarchical modeling of high-throughput genomic data with applications to cancer bioinformatics and stem cell differentiation, [Ph.D. Thesis](https://depot.library.wisc.edu/repository/fedora/1711.dl:5OWS5B2JU3NWD8Q/datastreams/REF/content), University of Wisconsin, 2015. 
