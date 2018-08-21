@@ -16,3 +16,6 @@ a:hover
   color: yellow;
   background: #CAFFFF;
 }
+
+.maroon-background {background-color:maroon;}
+.white {color:#ffffff;}

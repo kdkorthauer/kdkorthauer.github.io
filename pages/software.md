@@ -20,17 +20,17 @@ or the [Bioconductor](https://bioconductor.org) Project.
 
 ### developer
 
-- <a class="btn ban-primary" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
+- <a type="submit" class="btn btn-primary maroon-background white" value="Text" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
   <a class="btn" href="http://bioconductor.org/packages/stats/bioc/dmrseq/">Usage Stats</a> 
   <img src="http://bioconductor.org/shields/years-in-bioc/dmrseq.svg">
-R/Bioconductor package for inference for differentially methylated regions (DMRs) from bisulfite sequencing
+R/Bioconductor package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [Bioconductor](http://bioconductor.org/packages/dmrseq)
 		       
-- <a class="btn ban-primary" href="http://bioconductor.org/packages/scDD">scDD</a> 
+- <a class="btn btn-primary" href="http://bioconductor.org/packages/scDD">scDD</a> 
   <a class="btn" href="http://bioconductor.org/packages/stats/bioc/scDD/">Usage Stats</a> 
   <img src="http://bioconductor.org/shields/years-in-bioc/scDD.svg">
-R/Bioconductor package for the identification of differentially distributed genes in single-cell RNA-seq
+R/Bioconductor package for the identification of differentially distributed genes in single-cell RNA-seq, available on [Bioconductor](http://bioconductor.org/packages/scDD)
 		    
-- <a class="btn ban-primary" href="https://github.com/kdkorthauer/MADGiC">MADGiC</a> 
+- <a class="btn btn-primary" href="https://github.com/kdkorthauer/MADGiC">MADGiC</a> 
   R package for the identification of cancer driver genes by integrating somatic mutation, expression, replication timing, and functional impact, available on [GitHub](https://github.com/kdkorthauer/MADGiC)
 
 ### contributor 
