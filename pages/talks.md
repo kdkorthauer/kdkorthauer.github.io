@@ -36,6 +36,8 @@ title: talks
 
 - [Detection and accurate False Discovery Rate control of differentially methylated regions](../talks/ENCODE_2018_KeeganKorthauer.pdf). ENCODE Consortium Meeting, 3-7 February 2018. Palo Alto, California.
 
+- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/Ascona_2017_KeeganKorthauer.pdf). Ascona Workshop on Statistical Challenges in Single-Cell Biology. 30 April - 5 May 2017. Ascona, Switzerland.
+
 - [Bayesian nonparametric mixture modeling of expression dynamics in single-cell RNA-seq experiments](../talks/ENAR_2015_KeeganKorthauer.pdf). International Biometrics Society Eastern North American Region (ENAR) Spring Meeting. 15-18 March 2015. Miami, Florida.
 
 - [An integrative approach for the identification of somatic mutations that drive cancer](../talks/2013_GSTP_KeeganKorthauer.pdf). Genomic Sciences Training Program Retreat, Madison, WI, June 2013
