@@ -28,7 +28,7 @@ title: talks
 
 - [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](../talks/JSM_2016_Korthauer_Session_418.pdf). ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings. 30 July-4 August 2016. Chicago, Illinois.
   
-- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf>) **(Invited)**, 19-21 September 2016. Festival of Genomics California, San Diego, California.
+- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf) **(Invited)**, 19-21 September 2016. Festival of Genomics California, San Diego, California.
 		
 
 
