@@ -22,13 +22,13 @@ title: papers
 
 #### pre-prints
 
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="GitHub logo"></a> <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="http://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="GitHub logo"></a> 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 #### peer reviewed journal articles
 
 David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, Keegan Korthauer, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. {A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer}. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-
 
 **Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, kxy007. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a> 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></div>  
@@ -37,11 +37,14 @@ Chinmay J Shukla, Alexandra L McCorkindale, Chiara Gerhardinger, **Keegan D Kort
 High-throughput identification of RNA nuclear enrichment sequences. *The EMBO Journal*, 37:e98452. [doi: 10.15252/embj.201798452](https://doi.org/10.15252/embj.201798452), 2018. 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.15252/embj.201798452" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
-<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s12561-016-9144-1" class="altmetric-embed"></div> Jeea Choi, Shuyun Ye, Kevin H Eng, **Keegan Korthauer**, William H Bradley, Janet S Rader, Christina Kendziorski. IPI59: an actionable biomarker to improve treatment response in serous ovarian carcinoma patients. *Statistics in Biosciences*, 9(1):1-12. [doi: 10.1007/s12561-016-9144-1](https://doi.org/10.1007/s12561-016-9144-1), 2017. 
+Jeea Choi, Shuyun Ye, Kevin H Eng, **Keegan Korthauer**, William H Bradley, Janet S Rader, Christina Kendziorski. IPI59: an actionable biomarker to improve treatment response in serous ovarian carcinoma patients. *Statistics in Biosciences*, 9(1):1-12. [doi: 10.1007/s12561-016-9144-1](https://doi.org/10.1007/s12561-016-9144-1), 2017. 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s12561-016-9144-1" class="altmetric-embed"></div> 
 
-{\bf K. Korthauer}, L.-F. Chu, M. A. Newton, Y. Li, J. Thomson, R. Stewart and C. Kendziorski. {A statistical approach for identifying differential distributions in single-cell RNA-seq experiments}. \emph{Genome Biology}, 17:222, 2016. 
+**Keegan D Korthauer**, Li-Fang Chu, Michael A Newton, Yuan Li, James Thomson, Ron Stewart, Christina Kendziorski. A statistical approach for identifying differential distributions in single-cell RNA-seq experiments. *Genome Biology*, 17:222. [doi: 10.1186/s13059-016-1077-y](https://doi.org/10.1186/s13059-016-1077-y), 2016. 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1186/s13059-016-1077-y" class="altmetric-embed"></div> 
 
-C. Bodelon, M. Horswill, A. K. Chaturvedi, N. Wentzensen, S. Vinokurova, {\bf K. Korthauer}, S. T. Dunn, J. N. Sampson, M. Schiffman, M. A. Newton, J. den Boon, M. E. Sherman, P. Ahlquist, J. L. Walker, R. E. Zuna, S. S. Wang. {Copy number alterations and HPV integration in cervical precancer and invasive cancer}. \emph{Carcinogenesis}, 37(2):188-196, 2016. 
+Clara Bodelon, Svetlana Vinokurova, Joshua N Sampson, Johan A den Boon, Joan L Walker, Mark A Horswill, **Keegan Korthauer**, Mark Schiffman, Mark E Sherman, Rosemary E Zuna, Jason Mitchell, Xijun Zhang, Joseph F Boland, Anil K Chaturvedi, S Terence Dunn, Michael A Newton, Paul Ahlquist, Sophia S Wang, Nicolas Wentzensen. Copy number alterations and HPV integration in cervical precancer and invasive cancer. *Carcinogenesis*, 37(2):188-196. [doi: 10.1093/carcin/bgv171](https://doi.org/10.1093/carcin/bgv171), 2016. 
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/carcin/bgv171" class="altmetric-embed"></div> 
 
 {\bf K. Korthauer}, C. Kendziorski. {MADGiC: a model-based approach for identifying driver genes in cancer}. \emph{Bioinformatics}, 31(10): 1526–1535, 2015.
 
