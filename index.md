@@ -13,7 +13,6 @@ title: Keegan Korthauer
   gtag('config', 'UA-110175023-1');
 </script>
 
-
 ### about 
 
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the department of [Biostatistics and Computational Biology](http://bcb.dfci.harvard.edu) at [Dana-Farber Cancer Institute](http://www.dana-farber.org) and the [Harvard T. H. Chan School of Public Health](http://www.hsph.harvard.edu). 
