@@ -68,8 +68,7 @@ Lin Wang, Raka M Mitra, **Keegan D Hasselmann (now Korthauer)**, Masanao Sato, L
 Jose A Delgado, Elizabeth A Jacobs, Nancy E Adler, **Keegan Korthauer**, Alicia Fernandez. The relation between subjective socioeconomic status, depression and self-rated health in a population of African Americans, Hispanics and non-Hispanic whites with diabetes, *Journal of General Internal Medicine*, 28: S209. [doi: 10.1007/s11606-013-2436-y](https://doi.org/10.1007/s11606-013-2436-y), 2013.
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s11606-013-2436-y" class="altmetric-embed"></div> 
 
-Jose Delgado, Alicia Fernandez, Nancy E Adler, **Keegan Korthauer**, Elizabeth Jacobs Subjective and objective socioeconomic status and control of hypertension and diabetes. *Journal of General Internal Medicine*, 27:S312-S312. [doi: 10.1007/s11606-012-2038-0](https://doi.org/10.1007/s11606-012-2038-0), 2012.
-<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s11606-012-2038-0" class="altmetric-embed"></div> 
+Jose Delgado, Alicia Fernandez, Nancy E Adler, **Keegan Korthauer**, Elizabeth Jacobs Subjective and objective socioeconomic status and control of hypertension and diabetes. *Journal of General Internal Medicine*, 27:S312-S312. [doi: 10.1007/s11606-012-2038-0](https://doi.org/10.1007/s11606-012-2038-0), 2012. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s11606-012-2038-0" class="altmetric-embed"></span> 
 
 ### phd dissertation
 
