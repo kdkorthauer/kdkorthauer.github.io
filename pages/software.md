@@ -20,7 +20,7 @@ or the [Bioconductor](https://bioconductor.org) Project.
 
 ### developer
 
-- <a type="submit" class="btn btn-primary maroon-background white" value="Text" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
+- <a type="submit" class="btn btn-maroon" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
   <a class="btn" href="http://bioconductor.org/packages/stats/bioc/dmrseq/">Usage Stats</a> 
   <img src="http://bioconductor.org/shields/years-in-bioc/dmrseq.svg">
 R/Bioconductor package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [Bioconductor](http://bioconductor.org/packages/dmrseq)
@@ -35,5 +35,5 @@ R/Bioconductor package for the identification of differentially distributed gene
 
 ### contributor 
 
-- <a class="btn ban-primary" href="https://github.com/cshukla/oligoGames">oligoGames</a> 
+- <a class="btn btn-primary" href="https://github.com/cshukla/oligoGames">oligoGames</a> 
 R package for the analysis of tiled massively parallel reporter assays (MPRAs), available on [GitHub](https://github.com/kdkorthauer/MADGiC)

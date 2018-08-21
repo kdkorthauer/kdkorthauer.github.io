@@ -17,5 +17,7 @@ a:hover
   background: #CAFFFF;
 }
 
-.maroon-background {background-color:maroon;}
-.white {color:#ffffff;}
+.btn-maroon {
+    background: maroon;
+    color: #ffffff;
+}
