@@ -43,10 +43,14 @@ My [research](pages/research.html) focuses on developing [statistical methodolog
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         617-632-3651<br/>
             </div>
-        <img style="width:50px;height:50px;" src="../assets/img/github.png" title="GitHub logo">&nbsp<a href="https://github.com/kdkorthauer">github: kdkorthauer</a><br/>
-        <img style="width:50px;height:50px;" src="../assets/img/scholar.png" title="Google Scholar logo">&nbsp<a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a><br/>
-        <img style="width:50px;height:50px;" src="../assets/img/publons.png" title="Publons logo">&nbsp<a href="https://publons.com/author/1335173/keegan-korthauer#profile">Publons</a>
-        <img style="width:50px;height:50px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp<a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/><br/>
+        <a href="https://github.com/kdkorthauer"><img style="width:20px;height:20px;" src="../assets/img/github.png" title="GitHub logo"></a>&nbsp; 
+                 <a href="https://github.com/kdkorthauer">github: kdkorthauer</a><br/>
+        <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en"><img style="width:20px;height:20px;" src="../assets/img/scholar.png" title="Google Scholar logo"></a>&nbsp; 
+                 <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a><br/>
+        <a href="https://publons.com/author/1335173/keegan-korthauer#profile"><img style="width:20px;height:20px;" src="../assets/img/publons.png" title="Publons logo"></a>&nbsp; 
+                 <a href="https://publons.com/author/1335173/keegan-korthauer#profile">Publons</a><br/>
+        <a href="https://twitter.com/keegankorthauer"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo"></a>&nbsp;  
+                 <a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/><br/>
         </div>
 
         <div class="span2">
