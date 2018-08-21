@@ -43,7 +43,7 @@ My [research](pages/research.html) focuses on developing [statistical methodolog
         </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         617-632-3651<br/>
             </div>
-        twitter: <a href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/>
+        twitter: <a class="social" href="https://twitter.com/keegankorthauer">@keegankorthauer</a><br/>
         <a href="https://github.com/kdkorthauer">GitHub</a><br/>
         <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a><br/>
         <a href="https://publons.com/author/1335173/keegan-korthauer#profile">Publons</a><br/>
