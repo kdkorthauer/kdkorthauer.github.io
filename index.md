@@ -22,8 +22,6 @@ I earned my PhD in the [Department of Statistics](http://www.stat.wisc.edu/) at 
 
 My [research](pages/research.html) focuses on developing [statistical methodology](papers.html) and [computational tools](software.html) for the analysis of high-dimensional genomics data. Most of my work resolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. I am always looking to collaborate on new and interesting problems in these and other areas!
 
----
-
 <div class="container">
 <h3><a name="contact"></a>contact</h3>
 
@@ -34,8 +32,7 @@ My [research](pages/research.html) focuses on developing [statistical methodolog
             <a href="http://www.dana-farber.org">Dana-Farber Cancer Institute</a><br/>
             CLSB 11007<br/>
             450 Brookline Ave<br/>
-            Boston, Massachusetts 02215<br/>
-            USA<br/><br/>
+            Boston, Massachusetts 02215<br/><br/>
 
             <div id="hide_email">
         <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
