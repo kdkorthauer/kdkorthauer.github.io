@@ -29,9 +29,8 @@ My [research](pages/research.html) focuses on developing [statistical methodolog
             Keegan Korthauer<br/>
             <a href="http://bcb.dfci.harvard.edu">Department of Biostatistics &amp; Computational Biology</a><br/>
             <a href="http://www.dana-farber.org">Dana-Farber Cancer Institute</a><br/>
-            CLSB 11007<br/>
-            450 Brookline Ave<br/>
-            Boston, Massachusetts 02215<br/><br/>
+            CLSB 11007 | 450 Brookline Ave<br/>
+            Boston, Massachusetts 02215 | USA<br/><br/>
 
             <div id="hide_email">
         <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
