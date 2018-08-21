@@ -14,7 +14,7 @@ title: papers
 </script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<a style="color: white" class="btn btn-secondary" href="../cv-korthauer.pdf">Curriculum Vitae</a>&nbsp;&nbsp;<a style="color: white" class="btn btn-secondary" href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a>
+<a class="btn btn-secondary" href="../cv-korthauer.pdf">Curriculum Vitae</a>&nbsp;&nbsp;<a class="btn btn-secondary" href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a>
 
 ### pre-prints
 
