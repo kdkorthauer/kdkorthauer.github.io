@@ -13,21 +13,40 @@ title: talks
   gtag('config', 'UA-110175023-1');
 </script>
 
+### upcoming
 
-### conference talks 
+- [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html) **(Invited)**. 5-7 October 2018. Greensboro, North Carolina.
+
+- [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018) **(Invited)**. 6-7 December 2018. Munich, Germany.
+
+
+### selected conference talks 
 		
-- [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf): Joint Statistical Meetings, Vancouver, CA, July 29-August 2 2018	
-- [Detection and inference of differentially methylated regions from bisulfite sequencing](http://bcb.dfci.harvard.edu/~keegan/talks/bioc_dmrseq_07282017.pdf): Invited Talk, Bioconductor Meeting, Boston, July 26-28 2017
-- [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](http://bcb.dfci.harvard.edu/~keegan/talks/JSM_2016_Korthauer_Session_418.pdf): Contributed Talk, ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings, Chicago, IL, August 2016  
-- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](http://bcb.dfci.harvard.edu/~keegan/talks/FoG_2016_SingleCell_Korthauer.pdf>): Invited Talk, Festival of Genomics California, San Diego, CA, September 2016
-			
+- [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf). Joint Statistical Meetings. 29 July-2 August 2018. Vancouver, British Columbia, Canada.
+	
+- [Detection and inference of differentially methylated regions from bisulfite sequencing](http://bcb.dfci.harvard.edu/~keegan/talks/bioc_dmrseq_07282017.pdf) **(Invited)**, Bioconductor Meeting. 26-28 July 2017. Boston, Massachusetts.
 
-### conference posters
-- [An integrative approach for the identification of somatic mutations that drive cancer](http://bcb.dfci.harvard.edu/~keegan/talks/2013_GSTP_KeeganKorthauer.pdf): Genomic Sciences Training Program Retreat, Madison, WI, June 2013
-- [Bayesian nonparametric mixture modeling of expression dynamics in single-cell RNA-seq experiments](http://bcb.dfci.harvard.edu/~keegan/talks/ENAR_2015_KeeganKorthauer.pdf): Eastern North American Region (ENAR) Spring Meeting, Miami, FL, March 2015
+- [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](http://bcb.dfci.harvard.edu/~keegan/talks/JSM_2016_Korthauer_Session_418.pdf). ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings. 30 July-4 August 2016. Chicago, Illinois.
+  
+- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](http://bcb.dfci.harvard.edu/~keegan/talks/FoG_2016_SingleCell_Korthauer.pdf>) **(Invited)**, 19-21 September 2016. Festival of Genomics California, San Diego, California.
+		
+
+
+### selected posters
+
+- [Detection and accurate False Discovery Rate control of differentially methylated regions](../talks/ENCODE_2018_KeeganKorthauer.pdf). ENCODE Consortium Meeting, 3-7 February 2018. Palo Alto, California.
+
+- [Bayesian nonparametric mixture modeling of expression dynamics in single-cell RNA-seq experiments](http://bcb.dfci.harvard.edu/~keegan/talks/ENAR_2015_KeeganKorthauer.pdf). International Biometrics Society Eastern North American Region (ENAR) Spring Meeting. 15-18 March 2015. Miami, Florida.
+
+- [An integrative approach for the identification of somatic mutations that drive cancer](http://bcb.dfci.harvard.edu/~keegan/talks/2013_GSTP_KeeganKorthauer.pdf). Genomic Sciences Training Program Retreat, Madison, WI, June 2013
+
+
 			
 ### tutorials
-- [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/): Tutorial on analysis of single-cell RNA-sequencing experiments, Festival of Genomics California, San Diego, CA, September 2016
-- [Using Cloud Computing for Workshops](http://bcb.dfci.harvard.edu/~keegan/talks/LabMtg_10072016_DigitalOceanRStudio.pdf): Tutorial on using RStudio Server in the cloud for workshop demos, Rafa Lab Meeting Presentation, October 2016
-     
+
+- [Reproducibility and Replicability in Pharmacogenomics](https://github.com/kdkorthauer/PR2017replicaton), [Healthcare Innovation Replicathon](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/). 24-25 March 2017. University of Puerto Rico
+
+- [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/): Tutorial on analysis of single-cell RNA-sequencing experiments. Festival of Genomics California. 19-21 September 2016. San Diego, California.
+
+- [Using Cloud Computing for Workshops](http://bcb.dfci.harvard.edu/~keegan/talks/LabMtg_10072016_DigitalOceanRStudio.pdf): Tutorial on using RStudio Server in the cloud for workshop demos. 7 October 2016. Rafa Lab Meeting Presentation.     
 		        
