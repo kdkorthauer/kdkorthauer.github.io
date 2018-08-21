@@ -35,10 +35,10 @@ a:hover
 }
  
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
-    background: #33a6cc;
+    background: maroon;
 }
  
 .btn-primary:active, .btn-primary.active {
-    background: #007299;
+    background: maroon;
     box-shadow: none;
 }
