@@ -16,22 +16,9 @@ title: research
 
 ### publications
 
-- [Google scholar](https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en)
 - [Curriculum Vitae](../cv-korthauer-academic.pdf)
-        		
-### software
-
-I develop open-source, freely available software for the analysis of 
-high-throughput genomic data. My code is available through R packages that
-can be installed from [GitHub](https://github.com/kdkorthauer) 
-or the [Bioconductor](https://bioconductor.org) Project.
-
-- **dmrseq**: R package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [Bioconductor](http://bioconductor.org/packages/dmrseq) 
-		       
-- **scDD**: R package for the identification of differentially distributed genes in single-cell RNA-seq, available on [Bioconductor](http://bioconductor.org/packages/scDD)
-		    
-- **MADGiC**: R package for the identification of cancer driver genes by integrating somatic mutation, expression, replication timing, and functional impact, available on [GitHub](https://github.com/kdkorthauer/MADGiC)
-				    
+- [Google scholar](https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en)
+        						    
 ### research interests 
 
 #### detection and inference of differential methylation
