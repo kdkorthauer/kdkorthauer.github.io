@@ -37,9 +37,9 @@ Chinmay J Shukla, Alexandra L McCorkindale, Chiara Gerhardinger, **Keegan D Kort
 High-throughput identification of RNA nuclear enrichment sequences. *The EMBO Journal*, 37:e98452. [doi: 10.15252/embj.201798452](https://doi.org/10.15252/embj.201798452), 2018. 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.15252/embj.201798452" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
-J. Choi, S. Ye, K. Eng, {\bf K. Korthauer}, W. H. Bradley, J. S. Rader  and C. Kendziorski. {IPI59: an actionable biomarker to improve treatment response in serous ovarian carcinoma patients}. \emph{Statistics in Biosciences}, 9(1):1-12, 2017. \vspace*{0.5mm}
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1007/s12561-016-9144-1" class="altmetric-embed"></div> Jeea Choi, Shuyun Ye, Kevin H Eng, **Keegan Korthauer**, William H Bradley, Janet S Rader, Christina Kendziorski. IPI59: an actionable biomarker to improve treatment response in serous ovarian carcinoma patients. *Statistics in Biosciences*, 9(1):1-12. [doi: 10.1007/s12561-016-9144-1](https://doi.org/10.1007/s12561-016-9144-1), 2017. 
 
-{\bf K. Korthauer}, L.-F. Chu, M. A. Newton, Y. Li, J. Thomson, R. Stewart and C. Kendziorski. {A statistical approach for identifying differential distributions in single-cell RNA-seq experiments}. \emph{Genome Biology}, 17:222, 2016. \vspace*{0.5mm}
+{\bf K. Korthauer}, L.-F. Chu, M. A. Newton, Y. Li, J. Thomson, R. Stewart and C. Kendziorski. {A statistical approach for identifying differential distributions in single-cell RNA-seq experiments}. \emph{Genome Biology}, 17:222, 2016. 
 
 C. Bodelon, M. Horswill, A. K. Chaturvedi, N. Wentzensen, S. Vinokurova, {\bf K. Korthauer}, S. T. Dunn, J. N. Sampson, M. Schiffman, M. A. Newton, J. den Boon, M. E. Sherman, P. Ahlquist, J. L. Walker, R. E. Zuna, S. S. Wang. {Copy number alterations and HPV integration in cervical precancer and invasive cancer}. \emph{Carcinogenesis}, 37(2):188-196, 2016. 
 
