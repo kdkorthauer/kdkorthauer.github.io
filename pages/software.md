@@ -20,14 +20,20 @@ or the [Bioconductor](https://bioconductor.org) Project.
 
 ### developer
 
-* <a class="btn" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
-  <a class="btn" href="http://bioconductor.org/packages/stats/bioc/dmrseq/">dmrseq</a> 
+- <a class="btn ban-primary" href="http://bioconductor.org/packages/dmrseq">dmrseq</a> 
+  <a class="btn" href="http://bioconductor.org/packages/stats/bioc/dmrseq/">Usage Stats</a> 
   <img src="http://bioconductor.org/shields/years-in-bioc/dmrseq.svg">
-
-- **dmrseq**: R package for inference for differentially methylated regions (DMRs) from bisulfite sequencing, available on [Bioconductor](http://bioconductor.org/packages/dmrseq) 
+R/Bioconductor package for inference for differentially methylated regions (DMRs) from bisulfite sequencing
 		       
-- **scDD**: R package for the identification of differentially distributed genes in single-cell RNA-seq, available on [Bioconductor](http://bioconductor.org/packages/scDD)
+- <a class="btn ban-primary" href="http://bioconductor.org/packages/scDD">scDD</a> 
+  <a class="btn" href="http://bioconductor.org/packages/stats/bioc/scDD/">Usage Stats</a> 
+  <img src="http://bioconductor.org/shields/years-in-bioc/scDD.svg">
+R/Bioconductor package for the identification of differentially distributed genes in single-cell RNA-seq
 		    
-- **MADGiC**: R package for the identification of cancer driver genes by integrating somatic mutation, expression, replication timing, and functional impact, available on [GitHub](https://github.com/kdkorthauer/MADGiC)
+- <a class="btn ban-primary" href="https://github.com/kdkorthauer/MADGiC">MADGiC</a> 
+  R package for the identification of cancer driver genes by integrating somatic mutation, expression, replication timing, and functional impact, available on [GitHub](https://github.com/kdkorthauer/MADGiC)
 
 ### contributor 
+
+- <a class="btn ban-primary" href="https://github.com/cshukla/oligoGames">oligoGames</a> 
+R package for the analysis of tiled massively parallel reporter assays (MPRAs), available on [GitHub](https://github.com/kdkorthauer/MADGiC)
