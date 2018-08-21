@@ -14,8 +14,7 @@ title: papers
 </script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-- [Curriculum Vitae](../cv-korthauer.pdf)
-- [Google scholar](https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en)
+<a style="color: white; background-color: maroon" class="btn btn-primary" href="../cv-korthauer.pdf">Curriculum Vitae</a><a style="color: white; background-color: maroon" class="btn btn-primary" href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a>
 
 ### pre-prints
 
@@ -23,7 +22,7 @@ title: papers
 
 ### peer reviewed journal articles
 
-David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, **Keegan Korthauer**, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. {A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer}. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></span>  
+David Y Takeda, Sándor Spisák, Ji-Heui Seo, Connor Bell, Edward O’Connor, **Keegan Korthauer**, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 **Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, kxy007. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2018. <a href="http://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="GitHub logo"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
