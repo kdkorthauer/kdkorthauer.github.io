@@ -14,7 +14,11 @@ title: Stat 324: Introductory Applied Statistics for Engineers
 </script>
 
 
-### Lecture Notes for Spring 2014 
+### Lecture Notes for Stat 324: Introductory Applied Statistics for Engineers
+ 
+Instructor: Keegan Korthauer
+
+Spring 2014, Department of Statistics, University of Wisconsin, Madison.
 
 <ul>
 <li> <a href="../talks/stat324/STAT324_0122_intro_sampling.pdf"> 1/22: Introduction </a> </li>	
