@@ -15,12 +15,12 @@ title: talks
 
 ### upcoming
 
-- [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html) **(Invited)**. 5-7 October 2018. Greensboro, North Carolina.
-
 - [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018) **(Invited)**. 6-7 December 2018. Munich, Germany.
 
 
-### selected conference talks 
+### selected conference talks
+
+- [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](../talks/korthauer_aisc_2018_static.pdf) **(Invited)**. 5-7 October 2018. Greensboro, North Carolina. 
 		
 - [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf). Joint Statistical Meetings. 29 July-2 August 2018. Vancouver, British Columbia, Canada.
 	
