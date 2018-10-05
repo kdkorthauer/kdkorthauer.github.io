@@ -15,20 +15,20 @@ title: talks
 
 ### upcoming
 
-- [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018) **(Invited)**. 6-7 December 2018. Munich, Germany.
+- [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany. **(Invited)**
 
 
 ### selected conference talks
 
-- [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](../talks/korthauer_aisc_2018_static.pdf) **(Invited)**. 5-7 October 2018. Greensboro, North Carolina. 
+- [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](../talks/korthauer_aisc_2018_static.pdf). [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html), 5-7 October 2018. Greensboro, North Carolina. **(Invited)** 
 		
 - [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf). Joint Statistical Meetings. 29 July-2 August 2018. Vancouver, British Columbia, Canada.
 	
-- [Detection and inference of differentially methylated regions from bisulfite sequencing](../talks/bioc_dmrseq_07282017.pdf) **(Invited)**, Bioconductor Meeting. 26-28 July 2017. Boston, Massachusetts.
+- [Detection and inference of differentially methylated regions from bisulfite sequencing](../talks/bioc_dmrseq_07282017.pdf). Bioconductor Meeting. 26-28 July 2017. Boston, Massachusetts. **(Invited)**
 
 - [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](../talks/JSM_2016_Korthauer_Session_418.pdf). ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings. 30 July-4 August 2016. Chicago, Illinois.
   
-- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf) **(Invited)**, 19-21 September 2016. Festival of Genomics California, San Diego, California.
+- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf). 19-21 September 2016. Festival of Genomics California, San Diego, California. **(Invited)**
 		
 
 
