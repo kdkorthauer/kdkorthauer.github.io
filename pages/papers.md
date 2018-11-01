@@ -61,5 +61,5 @@ Jose Delgado, Alicia Fernandez, Nancy E Adler, **Keegan Korthauer**, Elizabeth J
 
 **Keegan Korthauer**. Bayesian hierarchical modeling of high-throughput genomic data with applications to cancer bioinformatics and stem cell differentiation, [Ph.D. Thesis](https://depot.library.wisc.edu/repository/fedora/1711.dl:5OWS5B2JU3NWD8Q/datastreams/REF/content), University of Wisconsin, 2015. 
 
-&dagger; = co-first authorship; these authors contributed equally\s
+&dagger; = co-first authorship; these authors contributed equally    
 &Dagger; = co-second authorship; these authors contributed equally
