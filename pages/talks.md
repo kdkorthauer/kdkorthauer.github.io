@@ -16,7 +16,7 @@ title: talks
 
 ### selected conference talks
 
-- [**Invited**] [Practical recommendations for controlling false discoveries in computational biology](../talks/eurobioc2018.pdf)[European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany.
+- [**Invited**] [Practical recommendations for controlling false discoveries in computational biology](../talks/eurobioc2018.pdf). [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany.
 
 - [**Invited**] [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_aisc_2018_static.pdf). [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html), 5-7 October 2018. Greensboro, North Carolina. 
 		
