@@ -14,21 +14,24 @@ title: talks
 </script>
 
 
-### selected conference talks
+### invited talks
 
-- [**Invited**] [Practical recommendations for controlling false discoveries in computational biology](../talks/eurobioc2018.pdf). [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany.
+- [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190215-korthauer-slides.pdf). [Dana-Farber Cancer Institute Center for Functional Epigenetic Seminar](http://cfce.dfci.harvard.edu/). 15 February 2019. Boston, Massachusetts. 
 
-- [**Invited**] [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_aisc_2018_static.pdf). [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html), 5-7 October 2018. Greensboro, North Carolina. 
+- [Practical recommendations for controlling false discoveries in computational biology](../talks/eurobioc2018.pdf). [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany.
+
+- [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_aisc_2018_static.pdf). [International Conference on Advances in Interdisciplinary Statistics and Combinatorics](https://www.uncg.edu/mat/aisc/2018/index.html), 5-7 October 2018. Greensboro, North Carolina. 
 		
+- [Detection and inference of differentially methylated regions from bisulfite sequencing](../talks/bioc_dmrseq_07282017.pdf). Bioconductor Meeting. 26-28 July 2017. Boston, Massachusetts. 
+
+- [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf). 19-21 September 2016. Festival of Genomics California, San Diego, California.
+		
+
+### selected contributed talks
+
 - [De novo detection and accurate inference of differentially methylated regions](../talks/korthauer_jsm_2018_static.pdf). Joint Statistical Meetings. 29 July-2 August 2018. Vancouver, British Columbia, Canada.
-	
-- [**Invited**] [Detection and inference of differentially methylated regions from bisulfite sequencing](../talks/bioc_dmrseq_07282017.pdf). Bioconductor Meeting. 26-28 July 2017. Boston, Massachusetts. 
 
 - [scDD: A Statistical Approach for Identifying Differential Distributions in Single-Cell RNA-Seq Experiments](../talks/JSM_2016_Korthauer_Session_418.pdf). ASA Biometrics Section Young Investigator Travel Award Session, Joint Statistical Meetings. 30 July-4 August 2016. Chicago, Illinois.
-  
-- [**Invited**] [Exploiting heterogeneity in single-cell transcriptomic analyses: how to move beyond comparisons of averages](../talks/FoG_2016_SingleCell_Korthauer.pdf). 19-21 September 2016. Festival of Genomics California, San Diego, California.
-		
-
 
 ### selected posters
 
