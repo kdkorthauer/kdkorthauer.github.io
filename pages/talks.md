@@ -16,7 +16,7 @@ title: talks
 
 ### invited talks
 
-- [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190215-korthauer-slides.pdf). [Dana-Farber Cancer Institute Center for Functional Epigenetic Seminar](http://cfce.dfci.harvard.edu/). 15 February 2019. Boston, Massachusetts. 
+- [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190215-korthauer-slides-static.pdf). [Dana-Farber Cancer Institute Center for Functional Epigenetic Seminar](http://cfce.dfci.harvard.edu/). 15 February 2019. Boston, Massachusetts. 
 
 - [Practical recommendations for controlling false discoveries in computational biology](../talks/eurobioc2018.pdf). [European Bioconductor Meeting](https://github.com/lgatto/EuroBioc2018). 6-7 December 2018. Munich, Germany.
 
