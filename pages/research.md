@@ -23,7 +23,7 @@ A central question in the analysis of bisulfite sequencing data is to detect reg
 
 <center><img src="../assets/img/DMR.jpg" alt="DMR" width="600"/></center> 
 
-The R package dmrseq (available on [Bioconductor](http://bioconductor.org/packages/dmrseq)) provides a rigorous permutation- based approach to detect and perform inference for differential methylation by use of generalized least squares models that account for inter-individual and inter-CpG variability to generate region-level statistics that can be comparable across the genome. We find that the new method improves the specificity and sensitivity of lists of regions and accurately controls the False Discovery Rate (FDR) in experiments with as few as two samples per group. Learn more by reading our [Biostatistics paper](https://doi.org/10.1093/biostatistics/kxy007). 
+The R package dmrseq (available on [Bioconductor](https://bioconductor.org/packages/dmrseq)) provides a rigorous permutation- based approach to detect and perform inference for differential methylation by use of generalized least squares models that account for inter-individual and inter-CpG variability to generate region-level statistics that can be comparable across the genome. We find that the new method improves the specificity and sensitivity of lists of regions and accurately controls the False Discovery Rate (FDR) in experiments with as few as two samples per group. Learn more by reading our [Biostatistics paper](https://doi.org/10.1093/biostatistics/kxy007). 
 
 #### characterizing complex differences in single-cell gene expression 
 
@@ -33,7 +33,7 @@ With collaborators at UW's Morgridge Institute for Research, we developed a meth
 
 In addition to detecting genes with subtle and complex differences in expression among single-cells, the framework also provides a summary of the key features than can differ between two conditions by classifying them into meaningful patterns.  The predominant features that are represented by the patterns are differences in means, differences in the number of subgroups, and differences in the proportion of cells belonging to each subgroup. Compared to methods that do not account for distinct expression states, our method shows increased sensitivity in simulation, and is able to detect and classify changes in key pluripotency genes and cell cycle regulators when comparing differentiated cells to embryonic stem cell lines.
               
-The scDD R package that implements our approach is available on [Bioconductor](http://bioconductor.org/packages/scDD). Read more in our [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y) 
+The scDD R package that implements our approach is available on [Bioconductor](https://bioconductor.org/packages/scDD). Read more in our [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y) 
 
 #### identifying driver genes in cancer 
 
@@ -42,7 +42,7 @@ We know that cancer arises from the accumulation of genetic alterations that pro
 <center><img src="../assets/img/MADGiC_prior.png" alt="MADGiC prior" width="800" height="350"/></center> 
 <center><img src="../assets/img/MADGiC_bmr.png" alt="MADGiC prior" width="400" height="400"/></center> 
 
-As we detail in the manuscript published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/early/2015/01/07/bioinformatics.btu858.long), existing statistical methods for identifying driver genes in cancer rely primarily on frequency-based criteria (i.e. identifying driver genes as those showing higher mutation rates than expected by chance). However, recent studies have 	        
+As we detail in the manuscript published in [Bioinformatics](https://bioinformatics.oxfordjournals.org/content/early/2015/01/07/bioinformatics.btu858.long), existing statistical methods for identifying driver genes in cancer rely primarily on frequency-based criteria (i.e. identifying driver genes as those showing higher mutation rates than expected by chance). However, recent studies have 	        
 identified many other properties of drivers such as increased functional impact, enrichment for 
 specific mutations, and highly structured spatial patterns that have not yet been utilized in statistical approaches. Our approach incorporates all three of these criteria and in doing so shows substantially increased power (with a well controlled false discovery rate) over competing methods in simulation studies.
 
@@ -54,5 +54,5 @@ Latent Dirichlet allocation models, also referred to as topic models, are common
         	 
 <center><img src="../assets/img/survLDA.png" alt="survLDA" width="850" height="400"/></center> 
  
-Personalized genomic medicine aims to predict clinical response using genomic predictors, but integration of multiple data types (e.g. gene expression, methylation, SNP genotypes) remains a challenge.  Using a novel translation of diverse genomic information to construct patient-specific 'documents', we are able to discover collections of genomic features in cancer patients that are related to survival. As we demonstrate in simulation studies, this type of inference is feasible even with modest sample sizes.  However, more exploration is needed to determine the optimal way to translate the genomic features into 'documents'. See our [ chapter](http://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-life-sciences-medicine-and-health/advances-statistical-bioinformatics-models-and-integrative-inference-high-throughput-data) in _Advances in Statistical Bioinformatics_ (chapter 18) to learn more.
+Personalized genomic medicine aims to predict clinical response using genomic predictors, but integration of multiple data types (e.g. gene expression, methylation, SNP genotypes) remains a challenge.  Using a novel translation of diverse genomic information to construct patient-specific 'documents', we are able to discover collections of genomic features in cancer patients that are related to survival. As we demonstrate in simulation studies, this type of inference is feasible even with modest sample sizes.  However, more exploration is needed to determine the optimal way to translate the genomic features into 'documents'. See our [ chapter](https://www.cambridge.org/us/academic/subjects/statistics-probability/statistics-life-sciences-medicine-and-health/advances-statistical-bioinformatics-models-and-integrative-inference-high-throughput-data) in _Advances in Statistical Bioinformatics_ (chapter 18) to learn more.
   

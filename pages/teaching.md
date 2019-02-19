@@ -16,7 +16,7 @@ title: teaching
 
 ### classroom
 
-- **Teaching Assistant**, [BST 260: Introduction to data science](http://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
+- **Teaching Assistant**, [BST 260: Introduction to data science](https://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
 
 - **Instructor**, [Stat 324: Introductory Applied Statistics for Engineers](stat324.html), Spring 2014. Department of Statistics, University of Wisconsin. Madison, Wisconsin.
 
