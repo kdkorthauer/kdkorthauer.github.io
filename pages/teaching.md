@@ -23,8 +23,9 @@ title: teaching
 - **Teaching Assistant**, PubH 6414: Introduction to Biostatistical Methods I, 2007-2008 (3 semesters). Division of Biostatistics, School of Public Health, University of Minnesota. Minneapolis, Minnesota.
 
 
-
 ### short courses & workshops
+
+- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
 			
 - **Teaching Assistant**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=17), 2016-2017 (2 sessions). Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
 
