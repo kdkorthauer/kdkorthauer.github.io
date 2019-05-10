@@ -18,11 +18,11 @@ title: papers
 
 ### pre-prints
 
-**Keegan Korthauer**<sup>&dagger;</sup>, Patrick K Kimes<sup>&dagger;</sup>, Claire Duvallet<sup>&Dagger;</sup>, Alejandro Reyes<sup>&Dagger;</sup>, Ayshwarya Subramanian<sup>&Dagger;</sup>, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks. A practical guide to methods controlling false discovery rates. *bioRxiv*, [doi: 10.1101/458786](https://doi.org/10.1101/458786), 2018. <a href="https://github.com/pkimes/benchmark-fdr"><img src="../assets/img/github.png" title="Code to reproduce paper"></a>  <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/458786" data-hide-no-mentions="true" class="altmetric-embed"></span>  
-
 **Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 ### peer reviewed journal articles
+
+**Keegan Korthauer**<sup>&dagger;</sup>, Patrick K Kimes<sup>&dagger;</sup>, Claire Duvallet<sup>&Dagger;</sup>, Alejandro Reyes<sup>&Dagger;</sup>, Ayshwarya Subramanian<sup>&Dagger;</sup>, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks. A practical guide to methods controlling false discovery rates. *Genome Biology*, [doi: 10.1101/458786](https://doi.org/10.1101/458786), 2019 (In Press). <a href="https://github.com/pkimes/benchmark-fdr"><img src="../assets/img/github.png" title="Code to reproduce paper"></a>  <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/458786" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 David Y Takeda<sup>&dagger;</sup>, Sándor Spisák<sup>&dagger;</sup>, Ji-Heui Seo, Connor Bell, Edward O’Connor, **Keegan Korthauer**, Dezső Ribli, István Csabai, Norbert Solymosi, Zoltán Szállási, David R Stillman, Paloma Cejas, Xintao Qiu, Henry W Long, Viktória Tisza, Pier Vitale Nuzzo, Mersedeh Rohanizadegan, Mark M Pomerantz, William C Hahn, Matthew L Freedman. A somatically acquired enhancer of the androgen receptor is a noncoding driver in advanced prostate cancer. *Cell*, Jul 12;174(2):422-432.e13. [doi: 10.1016/j.cell.2018.05.037](https://doi.org/10.1016/j.cell.2018.05.037), 2018. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1016/j.cell.2018.05.037" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
