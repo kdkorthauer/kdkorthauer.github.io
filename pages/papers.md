@@ -18,7 +18,7 @@ title: papers
 
 ### pre-prints
 
-Xiuyu Ma, **Keegan Korthauer**, Christina Kendziorski, Michael A. Newton. A compositional model to assess expression changes from single-cell RNA-seq data. *bioRxiv*, [doi: 10.1101/655795](https://www.biorxiv.org/content/10.1101/655795v1), 2019. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/655795 " data-hide-no-mentions="true" class="altmetric-embed"></span>  
+Xiuyu Ma, **Keegan Korthauer**, Christina Kendziorski, Michael A. Newton. A compositional model to assess expression changes from single-cell RNA-seq data. *bioRxiv*, [doi: 10.1101/655795](https://www.biorxiv.org/content/10.1101/655795v1), 2019. <a href="https://github.com/wiscstatman/scDDboost"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/655795 " data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 **Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
