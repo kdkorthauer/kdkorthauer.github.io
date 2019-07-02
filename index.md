@@ -15,6 +15,11 @@ title: Keegan Korthauer
 
 ### about 
 
+<p>
+  <div class="alert alert-primary" role="alert">
+In September 2019 I will be joining the [Department of Statistics](https://www.stat.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) as an Assistant Professor. I will also hold a position as an investigator at the [British Columbia Children's Hospital Research Institute](https://www.bcchr.ca). </div>
+</p>
+
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the Department of [Data Sciences]( http://datasciences.dfci.harvard.edu) at [Dana-Farber Cancer Institute](https://www.dana-farber.org) and the Department of Biostatistics at the [Harvard T. H. Chan School of Public Health](https://www.hsph.harvard.edu). I earned my PhD in the [Department of Statistics](https://www.stat.wisc.edu/) at the [University of Wisconsin Madison](https://www.wisc.edu) under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
 
 My [research](pages/research.html) focuses on developing [statistical methodology](papers.html) and [computational tools](software.html) for the analysis of high-dimensional genomics data. Most of my work revolves around experiments that use next-generation sequencing technologies to characterize the genomic basis of complex traits. I focus on problems of analyzing the mutation spectrum of cancer genomes, studying the gene expression of single cells, and characterizing changes in genome-wide methylation patterns. Currently, my research aims to develop and apply analysis tools to understand how epigenetic modifications influence transcriptional regulation. I am always looking to collaborate on new and interesting problems in these and other areas!
