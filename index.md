@@ -16,7 +16,7 @@ title: Keegan Korthauer
 ### about 
 
 <p>
-  <div class="alert alert-info" role="alert">
+  <div class="alert alert-danger" role="alert">
 In September 2019 I will be joining the <a href="https://www.stat.ubc.ca">Department of Statistics</a> at the <a href="https://www.ubc.ca">University of British Columbia</a> as an Assistant Professor. I will also hold a position as an investigator at the <a href="https://www.bcchr.ca">British Columbia Children's Hospital Research Institute</a>. </div>
 </p>
 
