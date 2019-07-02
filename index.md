@@ -17,7 +17,7 @@ title: Keegan Korthauer
 
 <p>
   <div class="alert alert-primary" role="alert">
-In September 2019 I will be joining the [Department of Statistics](https://www.stat.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) as an Assistant Professor. I will also hold a position as an investigator at the [British Columbia Children's Hospital Research Institute](https://www.bcchr.ca). </div>
+In September 2019 I will be joining the <a href="https://www.stat.ubc.ca">Department of Statistics</a> at the <a href="https://www.ubc.ca">University of British Columbia</a> as an Assistant Professor. I will also hold a position as an investigator at the <a href="https://www.bcchr.ca">British Columbia Children's Hospital Research Institute</a>. </div>
 </p>
 
 I am a postdoctoral research fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the Department of [Data Sciences]( http://datasciences.dfci.harvard.edu) at [Dana-Farber Cancer Institute](https://www.dana-farber.org) and the Department of Biostatistics at the [Harvard T. H. Chan School of Public Health](https://www.hsph.harvard.edu). I earned my PhD in the [Department of Statistics](https://www.stat.wisc.edu/) at the [University of Wisconsin Madison](https://www.wisc.edu) under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
