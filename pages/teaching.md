@@ -15,7 +15,7 @@ title: teaching
 
 ### short courses & workshops
 
-- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](kkorthauer.org/fungeno2019)
+- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](https://kkorthauer.org/fungeno2019)
 			
 - **Teaching Assistant**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=17), 2016-2017 (2 sessions). Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
 
