@@ -13,6 +13,15 @@ title: teaching
   gtag('config', 'UA-110175023-1');
 </script>
 
+### short courses & workshops
+
+- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](kkorthauer.org/fungeno2019)
+			
+- **Teaching Assistant**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=17), 2016-2017 (2 sessions). Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
+
+- **Co-organizer**, [Healthcare Innovation Replicathon](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/), 24-25 March 2017. University of Puerto Rico. San Juan, Puerto Rico. 
+
+- **Co-organizer**, Tutorial on analysis of single-cell RNA-sequencing experiments: [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/). Festival of Genomics California. 19-21 September 2016. San Diego, California.
 
 ### classroom
 
@@ -23,13 +32,5 @@ title: teaching
 - **Teaching Assistant**, PubH 6414: Introduction to Biostatistical Methods I, 2007-2008 (3 semesters). Division of Biostatistics, School of Public Health, University of Minnesota. Minneapolis, Minnesota.
 
 
-### short courses & workshops
 
-- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
-			
-- **Teaching Assistant**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=17), 2016-2017 (2 sessions). Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
-
-- **Co-organizer**, [Healthcare Innovation Replicathon](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/), 24-25 March 2017. University of Puerto Rico. San Juan, Puerto Rico. 
-
-- **Co-organizer**, Tutorial on analysis of single-cell RNA-sequencing experiments: [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/). Festival of Genomics California. 19-21 September 2016. San Diego, California.
 
