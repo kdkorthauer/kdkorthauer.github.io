@@ -27,15 +27,15 @@ My research focuses on developing [statistical methodology](papers.html) and [co
     <div class="row-fluid">
         <div class="span5">
             Keegan Korthauer<br/>
-            <a href=" http://datasciences.dfci.harvard.edu">Department of Data Sciences</a><br/>
-            <a href="https://www.dana-farber.org">Dana-Farber Cancer Institute</a><br/>
-            CLSB 11007 | 450 Brookline Ave<br/>
-            Boston, Massachusetts 02215 | USA<br/><br/>
+            <a href="https://www.stat.ubc.ca">Department of Statistics</a><br/>
+            <a href="https://www.ubc.ca">University of British Columbia</a><br/>
+            ESB 3108 | 2207 Main Mall<br/>
+            Vancouver, British Columbia, V6T 1Z4 | Canada<br/><br/>
 
             <div id="hide_email">
-        <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>jim</code><b>spam!
-        </b><code>my</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
-        </b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code>
+        <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>st</code><b>spam!
+        </b><code>at</code><b>So</b><code>.</code><b>please</b><code>ubc</code><b>leave
+        </b><code>.</code><b>mealone</b><code>ca</code>
             </div>
         <a href="https://github.com/kdkorthauer"><img style="width:20px;height:20px;" src="../assets/img/github.png" title="GitHub logo">&nbsp; github: kdkorthauer</a><br/>
         <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en"><img style="width:20px;height:20px;" src="../assets/img/scholar.png" title="Google Scholar logo">&nbsp; Google Scholar</a><br/>
