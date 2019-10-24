@@ -14,7 +14,7 @@ title: talks
 </script>
 
 
-### invited talks
+### selected invited talks
 
 - [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190409-korthauer-slide-static.pdf). [Program in Quantitative Genomics Working Group Series, Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/pqg/pqg-working-group-series/). 9 April 2019. Boston, Massachusetts. 
 
