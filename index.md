@@ -15,7 +15,7 @@ title: Keegan Korthauer
 
 ### about 
 
-I am an assistant professor in the <a href="https://www.stat.ubc.ca">Department of Statistics</a> at the <a href="https://www.ubc.ca">University of British Columbia</a> and an investigator at the <a href="https://www.bcchr.ca">British Columbia Children's Hospital Research Institute</a>.  
+I am an assistant professor in the <a href="https://www.stat.ubc.ca">Department of Statistics</a> at the <a href="https://www.ubc.ca">University of British Columbia</a> and an investigator at the <a href="https://www.bcchr.ca">British Columbia Children's Hospital Research Institute</a>. I am also a faculty member in the [Bioinformatics](http://www.bioinformatics.ubc.ca/) and [Genome Science and Technology](https://www.gsat.ubc.ca/) graduate programs at UBC. 
 
 Previously, I was a Postdoctoral Research Fellow in the lab of [Rafael Irizarry](http://rafalab.dfci.harvard.edu) in the Department of [Data Sciences]( http://datasciences.dfci.harvard.edu) at [Dana-Farber Cancer Institute](https://www.dana-farber.org) and the Department of Biostatistics at the [Harvard T. H. Chan School of Public Health](https://www.hsph.harvard.edu). I earned my PhD in the [Department of Statistics](https://www.stat.wisc.edu/) at the [University of Wisconsin Madison](https://www.wisc.edu) under the direction of [Christina Kendziorski](https://www.biostat.wisc.edu/~kendzior/). 
 

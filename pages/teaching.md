@@ -13,7 +13,21 @@ title: teaching
   gtag('config', 'UA-110175023-1');
 </script>
 
+
+### classroom
+
+- **Instructor**, [STAT/BIOF/GSAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/), Spring 2020. Department of Statistics, University of British Columbia. Vancouver, BC, Canada.
+
+- **Teaching Assistant**, [BST 260: Introduction to data science](https://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
+
+- **Instructor**, [Stat 324: Introductory Applied Statistics for Engineers](stat324.html), Spring 2014. Department of Statistics, University of Wisconsin. Madison, Wisconsin.
+
+- **Teaching Assistant**, PubH 6414: Introduction to Biostatistical Methods I, 2007-2008 (3 semesters). Division of Biostatistics, School of Public Health, University of Minnesota. Minneapolis, Minnesota.
+
+
 ### short courses & workshops
+
+- **Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=20), 2020. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
 
 - **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](https://kkorthauer.org/fungeno2019)
 			
@@ -22,14 +36,6 @@ title: teaching
 - **Co-organizer**, [Healthcare Innovation Replicathon](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/), 24-25 March 2017. University of Puerto Rico. San Juan, Puerto Rico. 
 
 - **Co-organizer**, Tutorial on analysis of single-cell RNA-sequencing experiments: [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/). Festival of Genomics California. 19-21 September 2016. San Diego, California.
-
-### classroom
-
-- **Teaching Assistant**, [BST 260: Introduction to data science](https://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
-
-- **Instructor**, [Stat 324: Introductory Applied Statistics for Engineers](stat324.html), Spring 2014. Department of Statistics, University of Wisconsin. Madison, Wisconsin.
-
-- **Teaching Assistant**, PubH 6414: Introduction to Biostatistical Methods I, 2007-2008 (3 semesters). Division of Biostatistics, School of Public Health, University of Minnesota. Minneapolis, Minnesota.
 
 
 
