@@ -22,6 +22,6 @@ The Korthauer research group focuses on developing novel frameworks and rigorous
 
 ### Join us!
 
-I welcome prospective students postdocs to contact me if interested in joining the group! I am a faculty member of three graduate programs ([Statistics](https://www.stat.ubc.ca/graduate), [Bioinformatics](http://www.bioinformatics.ubc.ca/apply/), and [Genome Science & Technology](https://www.gsat.ubc.ca/admission/)), each of which has an MSc and PhD track. 
+I welcome prospective students and postdocs to contact me if interested in joining the group! I am a faculty member of three graduate programs ([Statistics](https://www.stat.ubc.ca/graduate), [Bioinformatics](http://www.bioinformatics.ubc.ca/apply/), and [Genome Science & Technology](https://www.gsat.ubc.ca/admission/)), each of which has an MSc and PhD track. 
 
 
