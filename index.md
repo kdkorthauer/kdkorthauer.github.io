@@ -44,8 +44,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
         </div>
 
         <div class="span2">
-        <a href="assets/img/keegan.jpg">
-            <img src="assets/img/keegan.jpg" width="600" title="Keegan Korthauer" alt="Keegan Korthauer"/></a>
+            <img src="assets/img/keegan.jpg" width="600" title="Keegan Korthauer" alt="Keegan Korthauer">
         </div>
     </div>
 </div>
