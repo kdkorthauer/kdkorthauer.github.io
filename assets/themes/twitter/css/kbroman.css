@@ -7,16 +7,15 @@ code {
 }
 
 a code {
-    color: #Crimson;
+    color: #0072b2;
 }
 
 a {
-    color: #Crimson;
+    color: #0072b2;
 }
 
 a:hover {
-    color: red;
-    background-color: #B0C4DE;
+    color: #e69f00;
     text-decoration: none;
 }
 
@@ -25,20 +24,18 @@ a img {
 }
 
 a:hover img {
-    color: darkslateblue;
-    background-color: #e3e4fa;
+    color: #e69f00;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
 }
 
 /* unvisited link */
 a:link {
-    color: Crimson;
+    color: #0072b2;
 }
 
 /* visited link */
 a:visited {
-    color: Crimson;
+    color: #0072b2;
 }
 
 p.center {
@@ -68,7 +65,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: darkred;
+    color: #003366;
 }
 
 body {
