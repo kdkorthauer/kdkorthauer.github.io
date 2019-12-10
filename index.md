@@ -25,7 +25,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
 <h3><a name="contact"></a>contact</h3>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span3">
             Keegan Korthauer<br/>
             <a href="https://www.stat.ubc.ca">Department of Statistics</a><br/>
             <a href="https://www.ubc.ca">University of British Columbia</a><br/>
@@ -43,7 +43,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
         <a href="https://twitter.com/keegankorthauer"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp; @keegankorthauer</a><br/><br/>
         </div>
 
-        <div class="span5">
+        <div class="span4">
             <img src="assets/img/keegan.jpg" width="600" title="Keegan Korthauer" alt="Keegan Korthauer">
         </div>
     </div>
