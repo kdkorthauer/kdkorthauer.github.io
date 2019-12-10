@@ -16,17 +16,10 @@ a {
 
 a:hover {
     color: #e69f00;
-    text-decoration: none;
 }
-
 
 a img {
     border: solid 2px white;
-}
-
-a:hover img {
-    color: #e69f00;
-    text-decoration: none;
 }
 
 /* unvisited link */
