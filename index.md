@@ -30,7 +30,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
             <a href="https://www.stat.ubc.ca">Department of Statistics</a><br/>
             <a href="https://www.ubc.ca">University of British Columbia</a><br/>
             ESB 3108 | 2207 Main Mall<br/>
-            Vancouver, British Columbia, V6T 1Z4 | Canada<br/><br/>
+            Vancouver, British Columbia, V6T 1Z4<br/>Canada<br/><br/>
 
             <div id="hide_email">
         <code>kee</code><b>I</b><code>gan</code><b>don't</b><code>@</code><b>want</b><code>st</code><b>spam!
@@ -43,7 +43,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
         <a href="https://twitter.com/keegankorthauer"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp; @keegankorthauer</a><br/><br/>
         </div>
 
-        <div class="span4">
+        <div class="span5">
             <img src="assets/img/keegan.jpg" width="600" title="Keegan Korthauer" alt="Keegan Korthauer">
         </div>
     </div>
