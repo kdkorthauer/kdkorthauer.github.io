@@ -43,7 +43,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
         <a href="https://twitter.com/keegankorthauer"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp; @keegankorthauer</a><br/><br/>
         </div>
 
-        <div class="span2">
+        <div class="span5">
             <img src="assets/img/keegan.jpg" width="600" title="Keegan Korthauer" alt="Keegan Korthauer">
         </div>
     </div>
