@@ -1,6 +1,6 @@
 ---
 layout: page
-title: group
+title: Korthauer Lab
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -19,6 +19,11 @@ title: group
 Innovative technologies now allow us to probe the genome in more dimensions and at higher resolution than ever before, providing a wealth of information for studying the genomic basis of complex traits. However, meaningful biological insights are often masked by technical artifacts, systematic biases, or low signal-to-noise ratio (“needle in a haystack”). These challenges demand tailored statistical methodology in order to unlock the full potential of emerging assays.
 
 The Korthauer research group focuses on developing novel frameworks and rigorous inferential procedures that exploit the increased scope and scale of high-throughput sequencing data, with the ultimate goal of uncovering new molecular signals in cancer, child health, and development. Active projects include (1) unraveling the spatial landscape of epigenomic signals, (2) modeling the influence of epigenomic signals on gene expression, and (3) understanding the genomic and epigenomic basis of complex traits.
+
+### Current Lab Members
+
+* Keegan Korthauer (Principal Investigator)
+* Marco Tello Palencia (MS student, Bioinformatics)
 
 ### Join us!
 
