@@ -24,6 +24,7 @@ The Korthauer research group focuses on developing novel frameworks and rigorous
 
 * Keegan Korthauer (Principal Investigator)
 * Marco Tello Palencia (MS student, Bioinformatics)
+* Ning Shen (PhD student, Statistics)
 
 ### Join us!
 

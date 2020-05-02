@@ -24,6 +24,9 @@ Xiuyu Ma, **Keegan Korthauer**, Christina Kendziorski, Michael A. Newton. A comp
 
 ### peer reviewed journal articles
 
+Kathryn Lasseter<sup>&dagger;</sup>, Amin H Nassar<sup>&dagger;</sup>, Lana Hamieh<sup>&dagger;</sup>, Jacob E Berchuck<sup>&dagger;</sup>, Pier Vitale Nuzzo<sup>&dagger;</sup>, **Keegan Korthauer**, Atul B Shinagare, Barbara Ogorek, Rana McKay, Aaron R Thorner, Gwo-Shu Mary Lee, David A Braun, Rupal S Bhatt, Matthew Freedman<sup>&Dagger;</sup>, Toni K Choueiri<sup>&Dagger;</sup>, David J Kwiatkowski<sup>&Dagger;</sup>. Plasma cell-free DNA mutation analysis compared to methylated DNA analysis in renal cell carcinoma. *Genetics in Medicine*, [doi: 10.1038/s41436-020-0801-x](https://doi.org/10.1038/s41436-020-0801-x), 2020. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1038/s41436-020-0801-x" data-hide-no-mentions="true" class="altmetric-embed"></span>  
+
+
 **Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, 20(3):367-383. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2019. <a href="https://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="http://bioconductor.org/packages/dmrseq/"><img width="2.5%%" height="2.5%" src="../assets/img/biocnote.jpg" title="Bioconductor package"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 
