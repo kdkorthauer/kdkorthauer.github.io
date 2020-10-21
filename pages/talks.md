@@ -16,6 +16,8 @@ title: talks
 
 ### selected invited talks
 
+- [Keck Seminar, The Gulf Coast Consortia for Quantitative Biomedical Sciences](https://www.gulfcoastconsortia.org/home/training/keck-seminar/), Rice University. 20 November 2020. Houston, TX (Virtual due to COVID-19).
+
 - [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190409-korthauer-slide-static.pdf). [Program in Quantitative Genomics Working Group Series, Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/pqg/pqg-working-group-series/). 9 April 2019. Boston, Massachusetts. 
 
 - [Accurate inference of DNA methylation data: Statistical challenges lead to biological insights](../talks/20190215-korthauer-slides-static.pdf). [Dana-Farber Cancer Institute Center for Functional Epigenetic Seminar](http://cfce.dfci.harvard.edu/). 15 February 2019. Boston, Massachusetts. 
