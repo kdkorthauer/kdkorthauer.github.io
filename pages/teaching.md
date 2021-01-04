@@ -16,7 +16,7 @@ title: teaching
 
 ### classroom
 
-- **Instructor**, [STAT/BIOF/GSAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/), Spring 2020. Department of Statistics, University of British Columbia. Vancouver, BC, Canada.
+- **Instructor**, [STAT/BIOF/GSAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/), Spring 2020, Spring 2021. Department of Statistics, University of British Columbia. Vancouver, BC, Canada.
 
 - **Teaching Assistant**, [BST 260: Introduction to data science](https://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
 
@@ -27,9 +27,7 @@ title: teaching
 
 ### short courses & workshops
 
-- **Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=20), 2020. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
-
-- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](https://kkorthauer.org/fungeno2019)
+- **Associate Instructor**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=c-data&year=19), 2019. Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. [Course Material](https://kkorthauer.org/fungeno2019) - cancelled in 2020
 			
 - **Teaching Assistant**, [Statistical Methods for Functional Genomics](https://meetings.cshl.edu/courses.aspx?course=C-DATA&year=17), 2016-2017 (2 sessions). Cold Spring Harbor Laboratory. Cold Spring Harbor, New York. 
 
