@@ -34,7 +34,3 @@ title: teaching
 - **Co-organizer**, [Healthcare Innovation Replicathon](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/), 24-25 March 2017. University of Puerto Rico. San Juan, Puerto Rico. 
 
 - **Co-organizer**, Tutorial on analysis of single-cell RNA-sequencing experiments: [Dismantling the bulk: examining neuronal heterogeneity using single-cell techniques](https://kdkorthauer.github.io/FestivalWorkshopVignettes/). Festival of Genomics California. 19-21 September 2016. San Diego, California.
-
-
-
-
