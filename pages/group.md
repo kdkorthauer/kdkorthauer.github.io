@@ -22,8 +22,10 @@ The Korthauer research group focuses on developing novel frameworks and rigorous
 
 ### Current Lab Members
 
+* Giuliano Cruz (MS student, Bioinformatics)
+* Erick Isaac Navarro Delgado (MS student, Bioinformatics)
 * Keegan Korthauer (Principal Investigator)
-* Marco Tello Palencia (MS student, Bioinformatics)
+* Marco Tello Palencia (PhD student, Bioinformatics)
 * Ning Shen (PhD student, Statistics)
 
 ### Join us!
