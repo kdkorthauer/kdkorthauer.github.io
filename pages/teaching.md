@@ -16,7 +16,7 @@ title: teaching
 
 ### classroom
 
-- **Instructor**, [STAT/BIOF/GSAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/), Spring 2020, Spring 2021. Department of Statistics, University of British Columbia. Vancouver, BC, Canada.
+- **Instructor**, [STAT/BIOF/GSAT 540: Statistical Methods for High Dimensional Biology](https://stat540-ubc.github.io/), Spring 2020, Spring 2021, Spring 2022. Department of Statistics, University of British Columbia. Vancouver, BC, Canada.
 
 - **Teaching Assistant**, [BST 260: Introduction to data science](https://datasciencelabs.github.io), Fall 2017. Department of Biostatistics, Harvard. T. H. Chan School of Public Health. Boston, Massachusetts. 
 

@@ -22,12 +22,19 @@ The Korthauer research group focuses on developing novel frameworks and rigorous
 
 ### Current Lab Members
 
-* Giuliano Cruz (MS student, Bioinformatics)
+* Giuliano Netto Flores Cruz (MS student, Bioinformatics)
 * Erick Isaac Navarro Delgado (MS student, Bioinformatics)
 * Keegan Korthauer (Principal Investigator)
 * Marco Tello Palencia (PhD student, Bioinformatics)
+* Giuseppe Tinti Tomio (MS student, Statistics)
 * Ning Shen (PhD student, Statistics)
 
 ### Join us!
 
-We are an interdisciplinary group, with a blend of quantitative skills in mathematics/statistics, programming (mostly in R but other languages welcome), computational biology, and/or bioinformatics. I welcome prospective students and postdocs with training and interests in one or more of those areas to contact me if interested in joining the group. Please send me your CV, along with a brief summary of your training and research interests. I am a faculty member of three graduate programs ([Statistics](https://www.stat.ubc.ca/graduate), [Bioinformatics](http://www.bioinformatics.ubc.ca/apply/), and [Genome Science & Technology](https://www.gsat.ubc.ca/admission/)), each of which has an MSc and PhD track. Note that due to a high volume of email inquiries, I am not always able to respond to every request individually. 
+We are an interdisciplinary group, with a blend of quantitative skills in mathematics/statistics, programming (mostly in R but other languages welcome), computational biology, and/or bioinformatics. 
+
+I am a faculty member of three graduate programs ([Statistics](https://www.stat.ubc.ca/graduate), [Bioinformatics](http://www.bioinformatics.ubc.ca/apply/), and [Genome Science & Technology](https://www.gsat.ubc.ca/admission/)), each of which has an MSc and PhD track. 
+
+I welcome prospective students and postdocs with training and interests in one or more of those areas to contact me if interested in joining the group. Please send me your CV, along with a brief summary of your training and research interests, *highlighting how your interests and experience align with our group*. 
+
+Note that due to a high volume of email inquiries, I am not able to respond to every request individually. 
