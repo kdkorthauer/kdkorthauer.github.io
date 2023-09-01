@@ -18,7 +18,7 @@ title: papers
 
 ### pre-prints
 
-**Giuliano Netto Flores Cruz**, **Keegan Korthauer**. Bayesian Decision Curve Analysis with bayesDCA. *arXiv preprint* [arXiv:2308.02067](https://arxiv.org/abs/2308.02067). 2023 Aug 3.  <a href="https://github.com/giulianonetto/paper-bayesdca"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="https://github.com/giulianonetto/bayesdca"><img src="../assets/img/github.png" title="R Package"></a></a> 
+**Giuliano Netto Flores Cruz**, **Keegan Korthauer**. Bayesian Decision Curve Analysis with bayesDCA. *arXiv preprint* [arXiv:2308.02067](https://arxiv.org/abs/2308.02067). 2023 Aug 3.  <a href="https://github.com/giulianonetto/paper-bayesdca"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="https://github.com/giulianonetto/bayesdca"><img src="../assets/img/github.png" title="R Package"></a> 
 
 **Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 

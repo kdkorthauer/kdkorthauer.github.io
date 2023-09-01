@@ -39,7 +39,7 @@ My research focuses on developing [statistical methodology](papers.html) and [co
             </div>
         <a href="https://github.com/kdkorthauer"><img style="width:20px;height:20px;" src="../assets/img/github.png" title="GitHub logo">&nbsp; github: kdkorthauer</a><br/>
         <a href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en"><img style="width:20px;height:20px;" src="../assets/img/scholar.png" title="Google Scholar logo">&nbsp; Google Scholar</a><br/>
-        <a href="https://publons.com/author/1335173/keegan-korthauer#profile"><img style="width:20px;height:20px;" src="../assets/img/publons.png" title="Publons logo">&nbsp; Publons</a><br/>
+        <a href="https://genomic.social/@keegankorthauer"><img style="width:20px;height:20px;" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" title="Mastodon logo">&nbsp; @keegankorthauer@genomic.social</a><br/><br/>
         <a href="https://twitter.com/keegankorthauer"><img style="width:20px;height:20px;" src="../assets/img/twitter.png" title="Twitter logo">&nbsp; @keegankorthauer</a><br/><br/>
         </div>
 
