@@ -22,13 +22,16 @@ The Korthauer research group focuses on developing novel frameworks and rigorous
 
 ### Current Lab Members
 
-* Giuliano Netto Flores Cruz (MS student, Bioinformatics)
-* Erick Isaac Navarro Delgado - co-supervised with Mike Kobor (MS student, Bioinformatics)
+* Giuliano Netto Flores Cruz (PhD student, Statistics)
+* Erick Isaac Navarro Delgado - co-supervised with Mike Kobor (PhD student, Bioinformatics)
 * Keegan Korthauer (Principal Investigator)
 * Irvin Ng - Co-supervised with Bruce Vallance (MS student, Bioinformatics)
 * Marco Tello Palencia (MS student, Bioinformatics)
-* Giuseppe Tinti Tomio - co-supervised with Gabriela Cohen Freue (MS student, Statistics)
 * Ning Shen (PhD student, Statistics)
+
+### Lab Alumni
+
+* Giuseppe Tinti Tomio - co-supervised with Gabriela Cohen Freue (MS, Statistics)
 
 ### Join us!
 

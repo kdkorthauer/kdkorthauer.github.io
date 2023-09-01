@@ -16,8 +16,15 @@ title: papers
 
 <a class="btn btn-secondary" href="../cv-korthauer.pdf">Curriculum Vitae</a>&nbsp;&nbsp;<a class="btn btn-secondary" href="https://scholar.google.com/citations?user=spd-KjUAAAAJ&hl=en">Google Scholar</a>
 
+### pre-prints
+
+**Giuliano Netto Flores Cruz**, **Keegan Korthauer**. Bayesian Decision Curve Analysis with bayesDCA. *arXiv preprint* [arXiv:2308.02067](https://arxiv.org/abs/2308.02067). 2023 Aug 3.  <a href="https://github.com/giulianonetto/paper-bayesdca"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="https://github.com/giulianonetto/bayesdca"><img src="../assets/img/github.png" title="R Package"></a></a> 
+
+**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 ### peer reviewed journal articles
+
+Benjamin Life, Terri L. Petkau, **Giuliano N.F. Cruz, Erick I. Navarro-Delgado, Ning Shen, Keegan Korthauer**, Blair R. Leavitt. FTD-associated behavioural and transcriptomic abnormalities in ‘humanized’ progranulin-deficient mice: A novel model for progranulin-associated FTD. *Neurobiology of Disease*, [doi: 10.1016/j.nbd.2023.106138](https://doi.org/10.1016/j.nbd.2023.106138), 182:106138, 2023. <a href="https://github.com/ErickNavarroD/hum_progranulin_RNAseq_Leavitt"><img src="../assets/img/github.png" title="Code to reproduce analysis"></a>
 
 Julien Richard Albert, Toshihiro Kobayashi, Azusa Inoue, Ana Monteagudo-Sánchez, Soichiro Kumamoto, Tomoya Takashima, Asuka Miura, Mami Oikawa, Fumihito Miura, Shuji Takada, Masumi Hirabayashi, **Keegan Korthauer**, Kazuki Kurimoto, Maxim VC Greenberg, Matthew C Lorincz, Hisato Kobayashi. Conservation and divergence of canonical and non-canonical imprinting in murids. *Genome Biology*, [doi: 10.1186/s13059-023-02869-1](https://doi.org/10.1186/s13059-023-02869-1), 24:48, 2023. <a href="https://github.com/kdkorthauer/rat_imprintome"><img src="../assets/img/github.png" title="Code to reproduce analyses"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1186/s13059-023-02869-1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -68,10 +75,6 @@ Marcel Wüthrich, Karen Ersland, John C Pick-Jacobs, Benjamin H Gern, Christophe
 Donna Z Bliss, Jaclyn Lewis, **Keegan Hasselmann (now Korthauer)**, Kay Savik, Ann Lowry, Robin Whitebird. Use and evaluation of disposable absorbent products for managing fecal incontinence by community-living people. *Journal of wound, ostomy, and continence nursing*, 38(3):289. [doi: 10.1097/WON.0b013e31821530ca](https://doi.org/10.1097/WON.0b013e31821530ca), 2011. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1097/WON.0b013e31821530ca" class="altmetric-embed"></span> 
 
 Lin Wang, Raka M Mitra, **Keegan D Hasselmann (now Korthauer)**, Masanao Sato, Lisa Lenarz-Wyatt, Jerry D Cohen, Fumiaki Katagiri, Jane Glazebrook. The genetic network controlling the Arabidopsis transcriptional response to Pseudomonas syringae pv. maculicola: roles of major regulators and the phytotoxin coronatine. *Molecular plant-microbe interactions*, 21(11): 1408-1420. [doi: 10.1094/MPMI-21-11-1408](https://doi.org/10.1094/MPMI-21-11-1408), 2008. <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1094/MPMI-21-11-1408" class="altmetric-embed"></span> 
-
-### pre-prints
-
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
 
 
 ### book chapters

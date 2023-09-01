@@ -13,13 +13,16 @@ title: software
   gtag('config', 'UA-110175023-1');
 </script>
 
-I develop and contribute to open-source, freely available software for the analysis of 
-high-throughput genomic data. My code is available through R packages that
-can be installed from [GitHub](https://github.com/kdkorthauer) 
+Our group develops and contributes to open-source, freely available software for the analysis of 
+high-throughput genomic data. Our code is available through R packages that
+can be installed from [GitHub](https://github.com/) 
 or the [Bioconductor](https://bioconductor.org) Project. Analysis code to reproduce 
-manuscript results can also be found on my [GitHub](https://github.com/kdkorthauer) page.
+manuscript results can also be found by clicking on the GitHub logos in the [papers list](https://kkorthauer.org/pages/papers.html).
 
-### developer/author
+### developers/authors
+
+- <a  style="color: white;" class="btn btn-primary" href="https://github.com/giulianonetto/bayesdca">bayesDCA</a> 
+ R package to Perform Bayesian Decision Curve Analysis for clinical prediction models and diagnostic tests, available on [GitHub](https://github.com/giulianonetto/bayesdca)
 
 - <a  style="color: white;" class="btn btn-primary" href="https://github.com/kdkorthauer/benchmarkfdr-shiny">benchmarkfdr-shiny</a> 
   R/Shiny application for exploring results from ["A practical guide to methods controlling false discoveries in computational biology" by Korthauer, Kimes et al. (2019)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1), available on [GitHub](https://github.com/kdkorthauer/benchmarkfdr-shiny)
