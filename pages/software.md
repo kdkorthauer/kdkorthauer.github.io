@@ -3,14 +3,14 @@ layout: page
 title: software
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110175023-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76MC7WLYHX"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-110175023-1');
+  gtag('config', 'G-76MC7WLYHX');
 </script>
 
 Our group develops and contributes to open-source, freely available software for the analysis of 
