@@ -14,6 +14,8 @@ title: Keegan Korthauer
 </script>
 
 
+# This website is no longer being updated. Please visit my current lab website at [korthauerlab.com](https://www.korthauerlab.com/)
+
 ### about 
 
 I am an assistant professor in the <a href="https://www.stat.ubc.ca">Department of Statistics</a> at the <a href="https://www.ubc.ca">University of British Columbia</a> and an investigator at the <a href="https://www.bcchr.ca">British Columbia Children's Hospital Research Institute</a>. I am also a faculty member in the [Bioinformatics](http://www.bioinformatics.ubc.ca/) and [Genome Science and Technology](https://www.gsat.ubc.ca/) graduate programs at UBC. 
